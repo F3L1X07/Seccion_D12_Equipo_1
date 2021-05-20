@@ -1,1 +1,1 @@
-# Secci-n_D12_Equipo_1
+# Seccion_D12_Equipo_1
