@@ -3,7 +3,7 @@
 Fase 1:
 Código en Verilog -> Félix Eduardo Estrada Huerta
 Documentación -> Carlos Arturo Gonzalez Ramirez
-Proyect Manager -> Juan José Ortega Morales
+Project Manager -> Juan José Ortega Morales
 
 Reuniones:
 1. 20/05/2021 de 4pm - 5pm
