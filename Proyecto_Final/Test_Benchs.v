@@ -18,6 +18,11 @@ always @*
 endmodule
 
 
+module conexion ();
+
+endmodule
+
+
 /*
 module tb_General (
 //Declaraci�n de wires y Registros
