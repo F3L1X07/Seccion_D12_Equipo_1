@@ -1,5 +1,24 @@
 `timescale 1ns/1ns
 
+module tb_PC (
+//Declaraci�n de wires y Registros
+reg clk = 1’b0;
+
+//Cuerpo del Modulo
+/* Instanciacion del Modulo asignado */
+PC DUV (
+    //Conexiones
+    .CLK (clk)
+);
+
+//Ingreso de Valores
+always @* 
+#100 clk != clk;
+
+endmodule
+
+
+/*
 module tb_General (
 //Declaraci�n de wires y Registros
 //Entradas
@@ -12,7 +31,7 @@ wire [31:0]res;
 wire flag;
 
 //Cuerpo del Modulo
-/* Instanciacion del Modulo asignado */
+// Instanciacion del Modulo asignado
 <Modulo> <Instancia> (
     //Conexiones
     .i_op1 (op1), 
@@ -35,27 +54,12 @@ begin
     op1 = 16'd20;
     op2 = 16'd20;
     sel = 3'b001;
-    #100; 
-    
-    //AND
-    op1 = 16'd100;
-    op2 = 16'd125;
-    sel = 3'b010;
-    #100;
-
-    //OR
-    op1 = 16'd90;
-    op2 = 16'd30;
-    sel = 3'b011;
-    #100;
-
-    //NOP
-    op1 = 16'd34;
-    op2 = 16'd45;
-    sel = 3'b100;
     #100;
 
     $stop;
 end
 
 endmodule
+*/
+
+
