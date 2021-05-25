@@ -3,12 +3,4 @@ Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 
 -- Compiling module Banco_Registro
 ** Error: (vlog-13069) C:\Seminario_Arquitectura\Proyecto_Final\Banco_Registro.v(8): near "output": syntax error, unexpected output, expecting IDENTIFIER.
 
-} {4.0 5.0} {}} C:/Seminario_Arquitectura/Proyecto_Final/ALU.v {1 {vlog -work work -stats=none {C:\Seminario_Arquitectura\Proyecto_Final\ALU.v}
-Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
--- Compiling module ALU
--- Compiling module Tb_ALU
-
-Top level modules:
-	Tb_ALU
-
-} {} {}}
+} {4.0 5.0} {}}
