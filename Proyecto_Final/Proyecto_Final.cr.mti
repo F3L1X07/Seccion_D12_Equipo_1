@@ -1,0 +1,73 @@
+{C:/Users/carlo/OneDrive/Documentos/GUADALAJARA UDG/SEGUNDO SEMESTRE/SEMINARIO ARQUITECTURA COMP/ProyectoFinal/Seccion_D12_Equipo_1/Proyecto_Final/PC.v} {1 {vlog -work work -stats=none {C:/Users/carlo/OneDrive/Documentos/GUADALAJARA UDG/SEGUNDO SEMESTRE/SEMINARIO ARQUITECTURA COMP/ProyectoFinal/Seccion_D12_Equipo_1/Proyecto_Final/PC.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} {C:/Users/carlo/OneDrive/Documentos/GUADALAJARA UDG/SEGUNDO SEMESTRE/SEMINARIO ARQUITECTURA COMP/ProyectoFinal/Seccion_D12_Equipo_1/Proyecto_Final/Adders.v} {1 {vlog -work work -stats=none {C:/Users/carlo/OneDrive/Documentos/GUADALAJARA UDG/SEGUNDO SEMESTRE/SEMINARIO ARQUITECTURA COMP/ProyectoFinal/Seccion_D12_Equipo_1/Proyecto_Final/Adders.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Add_1
+
+Top level modules:
+	Add_1
+
+} {} {}} {C:/Users/carlo/OneDrive/Documentos/GUADALAJARA UDG/SEGUNDO SEMESTRE/SEMINARIO ARQUITECTURA COMP/ProyectoFinal/Seccion_D12_Equipo_1/Proyecto_Final/Banco_Registro.v} {2 {vlog -work work -stats=none {C:\Users\carlo\OneDrive\Documentos\GUADALAJARA UDG\SEGUNDO SEMESTRE\SEMINARIO ARQUITECTURA COMP\ProyectoFinal\Seccion_D12_Equipo_1\Proyecto_Final\Banco_Registro.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Banco_Registro
+** Warning: C:\Users\carlo\OneDrive\Documentos\GUADALAJARA UDG\SEGUNDO SEMESTRE\SEMINARIO ARQUITECTURA COMP\ProyectoFinal\Seccion_D12_Equipo_1\Proyecto_Final\Banco_Registro.v(23): (vlog-2182) 'mem2' might be read before written in always_comb or always @* block.
+
+Top level modules:
+	Banco_Registro
+
+} {} {}} {C:/Users/carlo/OneDrive/Documentos/GUADALAJARA UDG/SEGUNDO SEMESTRE/SEMINARIO ARQUITECTURA COMP/ProyectoFinal/Seccion_D12_Equipo_1/Proyecto_Final/Unidad_Control.v} {1 {vlog -work work -stats=none {C:/Users/carlo/OneDrive/Documentos/GUADALAJARA UDG/SEGUNDO SEMESTRE/SEMINARIO ARQUITECTURA COMP/ProyectoFinal/Seccion_D12_Equipo_1/Proyecto_Final/Unidad_Control.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Unidad_Control
+
+Top level modules:
+	Unidad_Control
+
+} {} {}} {C:/Users/carlo/OneDrive/Documentos/GUADALAJARA UDG/SEGUNDO SEMESTRE/SEMINARIO ARQUITECTURA COMP/ProyectoFinal/Seccion_D12_Equipo_1/Proyecto_Final/MUXs.v} {1 {vlog -work work -stats=none {C:/Users/carlo/OneDrive/Documentos/GUADALAJARA UDG/SEGUNDO SEMESTRE/SEMINARIO ARQUITECTURA COMP/ProyectoFinal/Seccion_D12_Equipo_1/Proyecto_Final/MUXs.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MUX_1
+-- Compiling module MUX_2
+-- Compiling module MUX_3
+-- Compiling module MUX_4
+
+Top level modules:
+	MUX_1
+	MUX_2
+	MUX_3
+	MUX_4
+
+} {} {}} {C:/Users/carlo/OneDrive/Documentos/GUADALAJARA UDG/SEGUNDO SEMESTRE/SEMINARIO ARQUITECTURA COMP/ProyectoFinal/Seccion_D12_Equipo_1/Proyecto_Final/Memoria_Instrucciones.v} {1 {vlog -work work -stats=none {C:\Users\carlo\OneDrive\Documentos\GUADALAJARA UDG\SEGUNDO SEMESTRE\SEMINARIO ARQUITECTURA COMP\ProyectoFinal\Seccion_D12_Equipo_1\Proyecto_Final\Memoria_Instrucciones.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Instruction_Memory
+
+Top level modules:
+	Instruction_Memory
+
+} {} {}} {C:/Users/carlo/OneDrive/Documentos/GUADALAJARA UDG/SEGUNDO SEMESTRE/SEMINARIO ARQUITECTURA COMP/ProyectoFinal/Seccion_D12_Equipo_1/Proyecto_Final/Test_Benchs.v} {0 {vlog -work work -stats=none {C:/Users/carlo/OneDrive/Documentos/GUADALAJARA UDG/SEGUNDO SEMESTRE/SEMINARIO ARQUITECTURA COMP/ProyectoFinal/Seccion_D12_Equipo_1/Proyecto_Final/Test_Benchs.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_PC
+** Error: (vlog-13067) C:/Users/carlo/OneDrive/Documentos/GUADALAJARA UDG/SEGUNDO SEMESTRE/SEMINARIO ARQUITECTURA COMP/ProyectoFinal/Seccion_D12_Equipo_1/Proyecto_Final/Test_Benchs.v(5:11): Syntax error, unexpected non-printable character with the hex value '0xe2'.
+** Error: (vlog-13067) C:/Users/carlo/OneDrive/Documentos/GUADALAJARA UDG/SEGUNDO SEMESTRE/SEMINARIO ARQUITECTURA COMP/ProyectoFinal/Seccion_D12_Equipo_1/Proyecto_Final/Test_Benchs.v(5:12): Syntax error, unexpected non-printable character with the hex value '0x80'.
+** Error: (vlog-13067) C:/Users/carlo/OneDrive/Documentos/GUADALAJARA UDG/SEGUNDO SEMESTRE/SEMINARIO ARQUITECTURA COMP/ProyectoFinal/Seccion_D12_Equipo_1/Proyecto_Final/Test_Benchs.v(5:13): Syntax error, unexpected non-printable character with the hex value '0x99'.
+** Error: (vlog-13069) C:/Users/carlo/OneDrive/Documentos/GUADALAJARA UDG/SEGUNDO SEMESTRE/SEMINARIO ARQUITECTURA COMP/ProyectoFinal/Seccion_D12_Equipo_1/Proyecto_Final/Test_Benchs.v(5): near "b0": syntax error, unexpected IDENTIFIER, expecting ')'.
+
+} {4.0 8.0} {}} {C:/Users/carlo/OneDrive/Documentos/GUADALAJARA UDG/SEGUNDO SEMESTRE/SEMINARIO ARQUITECTURA COMP/ProyectoFinal/Seccion_D12_Equipo_1/Proyecto_Final/ALU.v} {1 {vlog -work work -stats=none {C:/Users/carlo/OneDrive/Documentos/GUADALAJARA UDG/SEGUNDO SEMESTRE/SEMINARIO ARQUITECTURA COMP/ProyectoFinal/Seccion_D12_Equipo_1/Proyecto_Final/ALU.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU
+-- Compiling module Tb_ALU
+
+Top level modules:
+	Tb_ALU
+
+} {} {}} {C:/Users/carlo/OneDrive/Documentos/GUADALAJARA UDG/SEGUNDO SEMESTRE/SEMINARIO ARQUITECTURA COMP/ProyectoFinal/Seccion_D12_Equipo_1/Proyecto_Final/ALU_Control.v} {1 {vlog -work work -stats=none {C:/Users/carlo/OneDrive/Documentos/GUADALAJARA UDG/SEGUNDO SEMESTRE/SEMINARIO ARQUITECTURA COMP/ProyectoFinal/Seccion_D12_Equipo_1/Proyecto_Final/ALU_Control.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU_Control
+
+Top level modules:
+	ALU_Control
+
+} {} {}}

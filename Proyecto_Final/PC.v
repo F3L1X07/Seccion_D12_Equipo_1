@@ -6,12 +6,12 @@ module PC (
     input CLK,
 
     //Salidas
-    output [31:0]S
+    output reg[31:0]S
 );
 
-always @(posedge clk)     
+always @(posedge CLK)     
 begin                                                     
-    salida = entrada
+    S = A;
 end
 
 endmodule

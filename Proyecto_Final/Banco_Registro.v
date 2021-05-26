@@ -16,7 +16,7 @@ module Banco_Registro (
 reg [31:0]mem2[0:31];
 initial 
 begin 
-	$readmemb("datamem",mem2);
+	$readmemb("TestF1_BReg",mem2);
 end
 always @* 
 begin 

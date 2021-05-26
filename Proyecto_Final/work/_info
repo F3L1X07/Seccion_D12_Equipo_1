@@ -9,51 +9,291 @@ z2
 !i10f 100
 cModel Technology
 dC:/intelFPGA/20.1
-vALU
-Z0 !s110 1621920929
+vAdd_1
+Z0 !s110 1621979787
 !i10b 1
-!s100 Q<T]Y^Wa7T[^8=QD0Vm@O1
+!s100 amHR3VZ<6dQ`0c?d7mLS02
 Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
-IabEizn]XL2LGA;hVo6K3<2
+II>PkTWjh566nDUH?2^kU^2
 Z2 VDg1SIo80bB@j0V0VzS_@n1
-Z3 dC:/Seminario_Arquitectura/Proyecto_Final
-Z4 w1621920584
-Z5 8C:\Seminario_Arquitectura\Proyecto_Final\ALU.v
-Z6 FC:\Seminario_Arquitectura\Proyecto_Final\ALU.v
-!i122 0
-L0 3 55
-Z7 OV;L;2020.1;71
+Z3 dC:/Users/carlo/OneDrive/Documentos/GUADALAJARA UDG/SEGUNDO SEMESTRE/SEMINARIO ARQUITECTURA COMP/ProyectoFinal/Seccion_D12_Equipo_1/Proyecto_Final
+w1621979495
+8C:/Users/carlo/OneDrive/Documentos/GUADALAJARA UDG/SEGUNDO SEMESTRE/SEMINARIO ARQUITECTURA COMP/ProyectoFinal/Seccion_D12_Equipo_1/Proyecto_Final/Adders.v
+FC:/Users/carlo/OneDrive/Documentos/GUADALAJARA UDG/SEGUNDO SEMESTRE/SEMINARIO ARQUITECTURA COMP/ProyectoFinal/Seccion_D12_Equipo_1/Proyecto_Final/Adders.v
+!i122 11
+L0 3 12
+Z4 OV;L;2020.1;71
 r1
 !s85 0
 31
-Z8 !s108 1621920929.000000
-!s107 C:\Seminario_Arquitectura\Proyecto_Final\ALU.v|
-Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:\Seminario_Arquitectura\Proyecto_Final\ALU.v|
+Z5 !s108 1621979787.000000
+!s107 C:/Users/carlo/OneDrive/Documentos/GUADALAJARA UDG/SEGUNDO SEMESTRE/SEMINARIO ARQUITECTURA COMP/ProyectoFinal/Seccion_D12_Equipo_1/Proyecto_Final/Adders.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/carlo/OneDrive/Documentos/GUADALAJARA UDG/SEGUNDO SEMESTRE/SEMINARIO ARQUITECTURA COMP/ProyectoFinal/Seccion_D12_Equipo_1/Proyecto_Final/Adders.v|
 !i113 1
-Z10 o-work work
-Z11 tCvgOpt 0
+Z6 o-work work
+Z7 tCvgOpt 0
+n@add_1
+vALU
+R0
+!i10b 1
+!s100 Q<T]Y^Wa7T[^8=QD0Vm@O1
+R1
+ImD?F]WTz0<Y::`T<fN=3A2
+R2
+R3
+Z8 w1621945830
+Z9 8C:/Users/carlo/OneDrive/Documentos/GUADALAJARA UDG/SEGUNDO SEMESTRE/SEMINARIO ARQUITECTURA COMP/ProyectoFinal/Seccion_D12_Equipo_1/Proyecto_Final/ALU.v
+Z10 FC:/Users/carlo/OneDrive/Documentos/GUADALAJARA UDG/SEGUNDO SEMESTRE/SEMINARIO ARQUITECTURA COMP/ProyectoFinal/Seccion_D12_Equipo_1/Proyecto_Final/ALU.v
+!i122 12
+L0 3 55
+R4
+r1
+!s85 0
+31
+R5
+Z11 !s107 C:/Users/carlo/OneDrive/Documentos/GUADALAJARA UDG/SEGUNDO SEMESTRE/SEMINARIO ARQUITECTURA COMP/ProyectoFinal/Seccion_D12_Equipo_1/Proyecto_Final/ALU.v|
+Z12 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/carlo/OneDrive/Documentos/GUADALAJARA UDG/SEGUNDO SEMESTRE/SEMINARIO ARQUITECTURA COMP/ProyectoFinal/Seccion_D12_Equipo_1/Proyecto_Final/ALU.v|
+!i113 1
+R6
+R7
 n@a@l@u
+vALU_Control
+R0
+!i10b 1
+!s100 2=`JA>_7[>OEW;I879jfP0
+R1
+ITiBnWaUzfzQI_mN3G^Q;A1
+R2
+R3
+Z13 w1621975549
+8C:/Users/carlo/OneDrive/Documentos/GUADALAJARA UDG/SEGUNDO SEMESTRE/SEMINARIO ARQUITECTURA COMP/ProyectoFinal/Seccion_D12_Equipo_1/Proyecto_Final/ALU_Control.v
+FC:/Users/carlo/OneDrive/Documentos/GUADALAJARA UDG/SEGUNDO SEMESTRE/SEMINARIO ARQUITECTURA COMP/ProyectoFinal/Seccion_D12_Equipo_1/Proyecto_Final/ALU_Control.v
+!i122 13
+Z14 L0 3 30
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/carlo/OneDrive/Documentos/GUADALAJARA UDG/SEGUNDO SEMESTRE/SEMINARIO ARQUITECTURA COMP/ProyectoFinal/Seccion_D12_Equipo_1/Proyecto_Final/ALU_Control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/carlo/OneDrive/Documentos/GUADALAJARA UDG/SEGUNDO SEMESTRE/SEMINARIO ARQUITECTURA COMP/ProyectoFinal/Seccion_D12_Equipo_1/Proyecto_Final/ALU_Control.v|
+!i113 1
+R6
+R7
+n@a@l@u_@control
+vBanco_Registro
+!s110 1621979867
+!i10b 1
+!s100 dm@9[0;9m]G=CgSD:feaG3
+R1
+IRie03nR9;]S3W7U:FaNUQ2
+R2
+R3
+w1621979848
+8C:\Users\carlo\OneDrive\Documentos\GUADALAJARA UDG\SEGUNDO SEMESTRE\SEMINARIO ARQUITECTURA COMP\ProyectoFinal\Seccion_D12_Equipo_1\Proyecto_Final\Banco_Registro.v
+FC:\Users\carlo\OneDrive\Documentos\GUADALAJARA UDG\SEGUNDO SEMESTRE\SEMINARIO ARQUITECTURA COMP\ProyectoFinal\Seccion_D12_Equipo_1\Proyecto_Final\Banco_Registro.v
+!i122 19
+R14
+R4
+r1
+!s85 0
+31
+!s108 1621979866.000000
+!s107 C:\Users\carlo\OneDrive\Documentos\GUADALAJARA UDG\SEGUNDO SEMESTRE\SEMINARIO ARQUITECTURA COMP\ProyectoFinal\Seccion_D12_Equipo_1\Proyecto_Final\Banco_Registro.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\carlo\OneDrive\Documentos\GUADALAJARA UDG\SEGUNDO SEMESTRE\SEMINARIO ARQUITECTURA COMP\ProyectoFinal\Seccion_D12_Equipo_1\Proyecto_Final\Banco_Registro.v|
+!i113 1
+R6
+R7
+n@banco_@registro
+vInstruction_Memory
+!s110 1621979869
+!i10b 1
+!s100 aek`o=3B^MX?9=EdkVhiQ1
+R1
+I@YL>8ezfXoC;RNCcAmm5Z2
+R2
+R3
+w1621979864
+8C:\Users\carlo\OneDrive\Documentos\GUADALAJARA UDG\SEGUNDO SEMESTRE\SEMINARIO ARQUITECTURA COMP\ProyectoFinal\Seccion_D12_Equipo_1\Proyecto_Final\Memoria_Instrucciones.v
+FC:\Users\carlo\OneDrive\Documentos\GUADALAJARA UDG\SEGUNDO SEMESTRE\SEMINARIO ARQUITECTURA COMP\ProyectoFinal\Seccion_D12_Equipo_1\Proyecto_Final\Memoria_Instrucciones.v
+!i122 20
+L0 3 19
+R4
+r1
+!s85 0
+31
+!s108 1621979869.000000
+!s107 C:\Users\carlo\OneDrive\Documentos\GUADALAJARA UDG\SEGUNDO SEMESTRE\SEMINARIO ARQUITECTURA COMP\ProyectoFinal\Seccion_D12_Equipo_1\Proyecto_Final\Memoria_Instrucciones.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\carlo\OneDrive\Documentos\GUADALAJARA UDG\SEGUNDO SEMESTRE\SEMINARIO ARQUITECTURA COMP\ProyectoFinal\Seccion_D12_Equipo_1\Proyecto_Final\Memoria_Instrucciones.v|
+!i113 1
+R6
+R7
+n@instruction_@memory
+vMUX_1
+Z15 !s110 1621979788
+!i10b 1
+!s100 0]K;CBnoHELJkmTA^7MEG3
+R1
+I9kTWF<EW;<JzI5:P>g^8F2
+R2
+R3
+R13
+Z16 8C:/Users/carlo/OneDrive/Documentos/GUADALAJARA UDG/SEGUNDO SEMESTRE/SEMINARIO ARQUITECTURA COMP/ProyectoFinal/Seccion_D12_Equipo_1/Proyecto_Final/MUXs.v
+Z17 FC:/Users/carlo/OneDrive/Documentos/GUADALAJARA UDG/SEGUNDO SEMESTRE/SEMINARIO ARQUITECTURA COMP/ProyectoFinal/Seccion_D12_Equipo_1/Proyecto_Final/MUXs.v
+!i122 16
+L0 4 23
+R4
+r1
+!s85 0
+31
+Z18 !s108 1621979788.000000
+Z19 !s107 C:/Users/carlo/OneDrive/Documentos/GUADALAJARA UDG/SEGUNDO SEMESTRE/SEMINARIO ARQUITECTURA COMP/ProyectoFinal/Seccion_D12_Equipo_1/Proyecto_Final/MUXs.v|
+Z20 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/carlo/OneDrive/Documentos/GUADALAJARA UDG/SEGUNDO SEMESTRE/SEMINARIO ARQUITECTURA COMP/ProyectoFinal/Seccion_D12_Equipo_1/Proyecto_Final/MUXs.v|
+!i113 1
+R6
+R7
+n@m@u@x_1
+vMUX_2
+R15
+!i10b 1
+!s100 0m2JCOFMSQd:4g^mRTgXW0
+R1
+IRCRJ5D_P<HJ`aJ1=^>E4[1
+R2
+R3
+R13
+R16
+R17
+!i122 16
+L0 29 23
+R4
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 1
+R6
+R7
+n@m@u@x_2
+vMUX_3
+R15
+!i10b 1
+!s100 lY=bOaY:NmEg?hm2YmBz80
+R1
+IKPQmXkzo^V7FRKcegC1TW0
+R2
+R3
+R13
+R16
+R17
+!i122 16
+L0 54 23
+R4
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 1
+R6
+R7
+n@m@u@x_3
+vMUX_4
+R15
+!i10b 1
+!s100 0f9GgcYoJkeKCR>BK0Pe73
+R1
+IXQgj]mj`CzH:YO2g^zXUJ2
+R2
+R3
+R13
+R16
+R17
+!i122 16
+L0 79 23
+R4
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 1
+R6
+R7
+n@m@u@x_4
+vPC
+R15
+!i10b 1
+!s100 Dje@NBG0_3<WTS^GR=]]>0
+R1
+IdR>b]f<42dZLe`lEX;3g<0
+R2
+R3
+w1621979303
+8C:/Users/carlo/OneDrive/Documentos/GUADALAJARA UDG/SEGUNDO SEMESTRE/SEMINARIO ARQUITECTURA COMP/ProyectoFinal/Seccion_D12_Equipo_1/Proyecto_Final/PC.v
+FC:/Users/carlo/OneDrive/Documentos/GUADALAJARA UDG/SEGUNDO SEMESTRE/SEMINARIO ARQUITECTURA COMP/ProyectoFinal/Seccion_D12_Equipo_1/Proyecto_Final/PC.v
+!i122 17
+L0 3 15
+R4
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/carlo/OneDrive/Documentos/GUADALAJARA UDG/SEGUNDO SEMESTRE/SEMINARIO ARQUITECTURA COMP/ProyectoFinal/Seccion_D12_Equipo_1/Proyecto_Final/PC.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/carlo/OneDrive/Documentos/GUADALAJARA UDG/SEGUNDO SEMESTRE/SEMINARIO ARQUITECTURA COMP/ProyectoFinal/Seccion_D12_Equipo_1/Proyecto_Final/PC.v|
+!i113 1
+R6
+R7
+n@p@c
 vTb_ALU
 R0
 !i10b 1
 !s100 CMEPH:fkU^j75jlk=RG`z3
 R1
-INQQ=4NE;g`R7CHmFS9?[S2
+I@hV3zUBRab`Th4;PR1GRN0
 R2
 R3
-R4
-R5
-R6
-!i122 0
+R8
+R9
+R10
+!i122 12
 L0 59 54
-R7
+R4
 r1
 !s85 0
 31
-R8
-Z12 !s107 C:\Seminario_Arquitectura\Proyecto_Final\ALU.v|
-R9
-!i113 1
-R10
+R5
 R11
+R12
+!i113 1
+R6
+R7
 n@tb_@a@l@u
+vUnidad_Control
+R15
+!i10b 1
+!s100 MnzgOXj^iX98^QNSXXg_[1
+R1
+IdTXcOiN?^68HM`RQP;<Fe2
+R2
+R3
+R13
+8C:/Users/carlo/OneDrive/Documentos/GUADALAJARA UDG/SEGUNDO SEMESTRE/SEMINARIO ARQUITECTURA COMP/ProyectoFinal/Seccion_D12_Equipo_1/Proyecto_Final/Unidad_Control.v
+FC:/Users/carlo/OneDrive/Documentos/GUADALAJARA UDG/SEGUNDO SEMESTRE/SEMINARIO ARQUITECTURA COMP/ProyectoFinal/Seccion_D12_Equipo_1/Proyecto_Final/Unidad_Control.v
+!i122 18
+L0 3 18
+R4
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/carlo/OneDrive/Documentos/GUADALAJARA UDG/SEGUNDO SEMESTRE/SEMINARIO ARQUITECTURA COMP/ProyectoFinal/Seccion_D12_Equipo_1/Proyecto_Final/Unidad_Control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/carlo/OneDrive/Documentos/GUADALAJARA UDG/SEGUNDO SEMESTRE/SEMINARIO ARQUITECTURA COMP/ProyectoFinal/Seccion_D12_Equipo_1/Proyecto_Final/Unidad_Control.v|
+!i113 1
+R6
+R7
+n@unidad_@control
