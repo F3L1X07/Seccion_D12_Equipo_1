@@ -17,14 +17,14 @@ int main()
  //Se verifica que no halla numero negativo
  //en la parte que se realiza la raiz.
  
- if(((b*b)-(4*_a*_c))>0){
+ if(((b*b)-(4*a*c))>0){
   //Se evaluan los resultados con la ecuacion.
-  x1=(float)(((-1)*_b)+(sqrt((_b*_b)-(4*_a*_c))))/2;
-  x2=(float)(((-1)*_b)-(sqrt((_b*_b)-(4*_a*_c))))/2;
+  x1=(float)(((-1)*b)+(sqrt((b*b)-(4*a*c))))/(2*a);
+  x2=(float)(((-1)*b)-(sqrt((b*b)-(4*a*c))))/(2*a);
  
   //Se imprimen en pantalla los resultados.
-  printf("X1 = %.2fn",x1);
-  printf("X2 = %.2fn",x2);
+  printf("X1 = %.2f\n",x1);
+  printf("X2 = %.2f\n",x2);
  }
  	else{
   printf("ERROR: La ecuacion no tiene resultado.");
