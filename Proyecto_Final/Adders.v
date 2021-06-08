@@ -3,12 +3,12 @@
 module Add_1 (
     //Entradas
     input PC_In,
-    input CONST,
+    input [3:0]CONST,
 
     //Salidas
     output Res
 );
 
-CONST = 4'd4;
+assign CONST = 4'd4;
 
 endmodule
