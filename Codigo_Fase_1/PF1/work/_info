@@ -1,0 +1,466 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/20.1
+vAdder1
+Z0 !s110 1622727865
+!i10b 1
+!s100 8Xm3]MBac^6`7?TO9RE<l3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I6S173IMhC6WRb_aXZ2W<F3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/TAREA_MODELSIM/PF1
+w1622727775
+8C:\TAREA_MODELSIM\PF1\Adder1.v
+FC:\TAREA_MODELSIM\PF1\Adder1.v
+!i122 84
+L0 3 14
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1622727865.000000
+!s107 C:\TAREA_MODELSIM\PF1\Adder1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\TAREA_MODELSIM\PF1\Adder1.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@adder1
+vAdder2
+Z8 !s110 1622727866
+!i10b 1
+!s100 ?zbHXd<Te@D8QH<FJDY[E2
+R1
+Ili=m[9m0<z3a`bokk5aec3
+R2
+R3
+w1622727793
+8C:\TAREA_MODELSIM\PF1\Adder2.v
+FC:\TAREA_MODELSIM\PF1\Adder2.v
+!i122 86
+L0 3 10
+R4
+r1
+!s85 0
+31
+Z9 !s108 1622727866.000000
+!s107 C:\TAREA_MODELSIM\PF1\Adder2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\TAREA_MODELSIM\PF1\Adder2.v|
+!i113 1
+R6
+R7
+n@adder2
+vALU
+Z10 !s110 1622727868
+!i10b 1
+!s100 9k_B?1FKA8kI2ZhIXI<i]2
+R1
+II;K[;M6_[EWbHM3GZ@QzF2
+R2
+R3
+w1622727787
+8C:\TAREA_MODELSIM\PF1\ALU.v
+FC:\TAREA_MODELSIM\PF1\ALU.v
+!i122 97
+L0 3 59
+R4
+r1
+!s85 0
+31
+Z11 !s108 1622727867.000000
+!s107 C:\TAREA_MODELSIM\PF1\ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\TAREA_MODELSIM\PF1\ALU.v|
+!i113 1
+R6
+R7
+n@a@l@u
+vALUCONTROL
+Z12 !s110 1622727867
+!i10b 1
+!s100 2?7R[j=KIf:Bc4oWUkVKL1
+R1
+IF=DMdkcl3e[<C08BkCF752
+R2
+R3
+w1622727762
+8C:\TAREA_MODELSIM\PF1\ALUCont.v
+FC:\TAREA_MODELSIM\PF1\ALUCont.v
+!i122 93
+L0 3 48
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:\TAREA_MODELSIM\PF1\ALUCont.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\TAREA_MODELSIM\PF1\ALUCont.v|
+!i113 1
+R6
+R7
+n@a@l@u@c@o@n@t@r@o@l
+vBR
+R12
+!i10b 1
+!s100 f^P664nc0zWIYQOMXIV2J3
+R1
+IGLoU]7]9FH`2YklHU28@;3
+R2
+R3
+w1622727824
+8C:\TAREA_MODELSIM\PF1\Registers.v
+FC:\TAREA_MODELSIM\PF1\Registers.v
+!i122 91
+L0 3 29
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:\TAREA_MODELSIM\PF1\Registers.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\TAREA_MODELSIM\PF1\Registers.v|
+!i113 1
+R6
+R7
+n@b@r
+vBuffer1
+R10
+!i10b 1
+!s100 koX_1VhBjKMCe:X5`Ml>03
+R1
+IJXcT[K;g_lLliHl0]N_zO2
+R2
+R3
+w1622727806
+8C:\TAREA_MODELSIM\PF1\Buffer1.v
+FC:\TAREA_MODELSIM\PF1\Buffer1.v
+!i122 100
+L0 3 21
+R4
+r1
+!s85 0
+31
+Z13 !s108 1622727868.000000
+!s107 C:\TAREA_MODELSIM\PF1\Buffer1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\TAREA_MODELSIM\PF1\Buffer1.v|
+!i113 1
+R6
+R7
+n@buffer1
+vCAND
+R10
+!i10b 1
+!s100 UTXMOnWfdFQ0P[a3G`_WB2
+R1
+IkXHPM`T1l^8=N>97[A[1h3
+R2
+R3
+w1622727799
+8C:\TAREA_MODELSIM\PF1\AND.v
+FC:\TAREA_MODELSIM\PF1\AND.v
+!i122 101
+L0 3 12
+R4
+r1
+!s85 0
+31
+R13
+!s107 C:\TAREA_MODELSIM\PF1\AND.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\TAREA_MODELSIM\PF1\AND.v|
+!i113 1
+R6
+R7
+n@c@a@n@d
+vInstMEMO
+R8
+!i10b 1
+!s100 kzB7Qf:M:^YP8XNG`EZA30
+R1
+Il02WiLJzGgm`@<Bf@@ZEK2
+R2
+R3
+w1622727812
+8C:\TAREA_MODELSIM\PF1\InstMEM.v
+FC:\TAREA_MODELSIM\PF1\InstMEM.v
+!i122 85
+Z14 L0 3 17
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:\TAREA_MODELSIM\PF1\InstMEM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\TAREA_MODELSIM\PF1\InstMEM.v|
+!i113 1
+R6
+R7
+n@inst@m@e@m@o
+vMEMO
+R12
+!i10b 1
+!s100 S^k^Ui[NU9m@5J11oncAJ0
+R1
+I8nO1d:6dAzI0a4GImEoSb0
+R2
+R3
+w1622727781
+8C:\TAREA_MODELSIM\PF1\DataMEM.v
+FC:\TAREA_MODELSIM\PF1\DataMEM.v
+!i122 92
+L0 3 27
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:\TAREA_MODELSIM\PF1\DataMEM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\TAREA_MODELSIM\PF1\DataMEM.v|
+!i113 1
+R6
+R7
+n@m@e@m@o
+vMux1
+R8
+!i10b 1
+!s100 HLY]JcU_nLMGCThn<mmOZ2
+R1
+IfFYf7Bh_H<i33[CAQ`KIN2
+R2
+R3
+w1622727841
+8C:\TAREA_MODELSIM\PF1\Mux1.v
+FC:\TAREA_MODELSIM\PF1\Mux1.v
+!i122 87
+Z15 L0 3 24
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:\TAREA_MODELSIM\PF1\Mux1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\TAREA_MODELSIM\PF1\Mux1.v|
+!i113 1
+R6
+R7
+n@mux1
+vMux2
+R8
+!i10b 1
+!s100 V6O9QU2V;Kb@Z6IM[VXM`0
+R1
+I^4PIm<_Dd2PmfCB0mYI<m2
+R2
+R3
+w1622727846
+8C:\TAREA_MODELSIM\PF1\Mux2.v
+FC:\TAREA_MODELSIM\PF1\Mux2.v
+!i122 88
+R15
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:\TAREA_MODELSIM\PF1\Mux2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\TAREA_MODELSIM\PF1\Mux2.v|
+!i113 1
+R6
+R7
+n@mux2
+vMux3
+R8
+!i10b 1
+!s100 0kP5R`SRoDK4ORH<Nl<1h1
+R1
+IzJS@C_R]mN;5HPTKKn7D=0
+R2
+R3
+w1622727741
+8C:\TAREA_MODELSIM\PF1\Mux3.v
+FC:\TAREA_MODELSIM\PF1\Mux3.v
+!i122 89
+R15
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:\TAREA_MODELSIM\PF1\Mux3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\TAREA_MODELSIM\PF1\Mux3.v|
+!i113 1
+R6
+R7
+n@mux3
+vMux4
+R8
+!i10b 1
+!s100 gLf^JoT7nDc`PG70O62Ri1
+R1
+I2bAWlDn351L?DSejXbAKN2
+R2
+R3
+w1622727754
+8C:\TAREA_MODELSIM\PF1\Mux4.v
+FC:\TAREA_MODELSIM\PF1\Mux4.v
+!i122 90
+R15
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:\TAREA_MODELSIM\PF1\Mux4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\TAREA_MODELSIM\PF1\Mux4.v|
+!i113 1
+R6
+R7
+n@mux4
+vPC
+R0
+!i10b 1
+!s100 6mM025MAPYck=TTHTQN8X1
+R1
+IgdYl5JbOVD?RMj6mnOlRW0
+R2
+R3
+w1622727836
+8C:\TAREA_MODELSIM\PF1\PC.v
+FC:\TAREA_MODELSIM\PF1\PC.v
+!i122 83
+R14
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:\TAREA_MODELSIM\PF1\PC.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\TAREA_MODELSIM\PF1\PC.v|
+!i113 1
+R6
+R7
+n@p@c
+vPF1
+R10
+!i10b 1
+!s100 2hejQ[FBfz:FnXdE[DGc:2
+R1
+IPPm06KfSV4iPGde?cZ2T_3
+R2
+R3
+w1622727817
+8C:\TAREA_MODELSIM\PF1\PF1.v
+FC:\TAREA_MODELSIM\PF1\PF1.v
+!i122 99
+L0 3 151
+R4
+r1
+!s85 0
+31
+R13
+!s107 C:\TAREA_MODELSIM\PF1\PF1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\TAREA_MODELSIM\PF1\PF1.v|
+!i113 1
+R6
+R7
+n@p@f1
+vshift
+R12
+!i10b 1
+!s100 F7^FE958KJja2SFiO^lZG1
+R1
+I8eQ_J0BZ:k=3ORe2eUfh]2
+R2
+R3
+w1622727747
+8C:\TAREA_MODELSIM\PF1\Shift.v
+FC:\TAREA_MODELSIM\PF1\Shift.v
+!i122 96
+Z16 L0 3 11
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:\TAREA_MODELSIM\PF1\Shift.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\TAREA_MODELSIM\PF1\Shift.v|
+!i113 1
+R6
+R7
+vSignEx
+R12
+!i10b 1
+!s100 :b2[dN`e9fGEb7UV44_XC0
+R1
+IN6mEoVl3EZ4RK`:^m8azH3
+R2
+R3
+w1622727830
+8C:\TAREA_MODELSIM\PF1\SignExt.v
+FC:\TAREA_MODELSIM\PF1\SignExt.v
+!i122 94
+R16
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:\TAREA_MODELSIM\PF1\SignExt.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\TAREA_MODELSIM\PF1\SignExt.v|
+!i113 1
+R6
+R7
+n@sign@ex
+vTB_PF1
+R10
+!i10b 1
+!s100 hE]7gYF72[NGHc3B8?<zG3
+R1
+I6hj<^Y6cnQb;92>n`49LW3
+R2
+R3
+w1622727852
+8C:\TAREA_MODELSIM\PF1\TB_PF1.v
+FC:\TAREA_MODELSIM\PF1\TB_PF1.v
+!i122 98
+L0 3 20
+R4
+r1
+!s85 0
+31
+R13
+!s107 C:\TAREA_MODELSIM\PF1\TB_PF1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\TAREA_MODELSIM\PF1\TB_PF1.v|
+!i113 1
+R6
+R7
+n@t@b_@p@f1
+vUC
+R12
+!i10b 1
+!s100 ]0TJaH_ofn[V[V:W5=e2I1
+R1
+I?k4AjNGT3VQeccX`2V=ES0
+R2
+R3
+w1622727767
+8C:\TAREA_MODELSIM\PF1\UCont.v
+FC:\TAREA_MODELSIM\PF1\UCont.v
+!i122 95
+L0 3 30
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:\TAREA_MODELSIM\PF1\UCont.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\TAREA_MODELSIM\PF1\UCont.v|
+!i113 1
+R6
+R7
+n@u@c
