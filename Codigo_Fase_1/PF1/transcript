@@ -1,0 +1,20 @@
+# Compile of PC.v was successful.
+# Compile of Adder1.v was successful.
+# Compile of InstMEM.v was successful.
+# Compile of Adder2.v was successful.
+# Compile of Mux1.v was successful.
+# Compile of Mux2.v was successful.
+# Compile of Mux3.v was successful.
+# Compile of Mux4.v was successful.
+# Compile of Registers.v was successful with warnings.
+# Compile of DataMEM.v was successful.
+# Compile of ALUCont.v was successful.
+# Compile of SignExt.v was successful.
+# Compile of UCont.v was successful.
+# Compile of Shift.v was successful.
+# Compile of ALU.v was successful.
+# Compile of TB_PF1.v was successful.
+# Compile of PF1.v was successful.
+# Compile of Buffer1.v was successful.
+# Compile of AND.v was successful.
+# 19 compiles, 0 failed with no errors.

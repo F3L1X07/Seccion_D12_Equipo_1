@@ -10,3 +10,4 @@ Reuniones:
 2. 21/05/2021 de 5pm - 6:30pm //Conocimiento básico sobre GIT
 3. 22/05/2021 de 7pm - 8pm //Inicio documentación 
 4. 24/05/2021 de 5pm - 6pm //Detalles sobre documentación y código
+5. 01/06/2021 de 5 pm - 6pm //Inicio fase 2
