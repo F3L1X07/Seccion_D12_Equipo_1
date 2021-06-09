@@ -1,0 +1,776 @@
+vsim work.BR
+# vsim work.BR 
+# Start time: 18:01:34 on Jun 07,2021
+# Loading work.BR
+run
+quit -sim
+# End time: 18:08:39 on Jun 07,2021, Elapsed time: 0:07:05
+# Errors: 0, Warnings: 1
+vsim work.TB_PF1
+# vsim work.TB_PF1 
+# Start time: 18:10:17 on Jun 07,2021
+# Loading work.TB_PF1
+# Loading work.PF1
+# Loading work.PC
+# Loading work.Mux4
+# Loading work.Adder1
+# Loading work.InstMEMO
+# Loading work.Buf1
+# Loading work.UC
+# Loading work.BR
+# Loading work.SignEx
+# Loading work.Buf2
+# Loading work.Adder2
+# Loading work.shift
+# Loading work.ALU
+# Loading work.Mux2
+# Loading work.Mux1
+# Loading work.ALUCONTROL
+# Loading work.Buf3
+# Loading work.CAND
+# Loading work.MEMO
+# Loading work.Buf4
+# Loading work.Mux3
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'Add1Pr'.  Expected 3, found 2.
+#    Time: 0 ns  Iteration: 0  Instance: /TB_PF1/TB_PCPF1/Add1Pr File: C:/TAREA_MODELSIM/BegPrueba/Prueba.v Line: 248
+# ** Warning: (vsim-3722) C:/TAREA_MODELSIM/BegPrueba/Prueba.v(248): [TFMPC] - Missing connection for port 'B'.
+run -all
+# ** Note: $stop    : C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v(19)
+#    Time: 5 us  Iteration: 0  Instance: /TB_PF1
+# Break in Module TB_PF1 at C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v line 19
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'Add1Pr'.  Expected 3, found 2.
+#    Time: 0 ns  Iteration: 0  Instance: /TB_PF1/TB_PCPF1/Add1Pr File: C:/TAREA_MODELSIM/BegPrueba/Prueba.v Line: 248
+# ** Warning: (vsim-3722) C:/TAREA_MODELSIM/BegPrueba/Prueba.v(248): [TFMPC] - Missing connection for port 'B'.
+run -all
+# ** Note: $stop    : C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v(19)
+#    Time: 5 us  Iteration: 0  Instance: /TB_PF1
+# Break in Module TB_PF1 at C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v line 19
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'Add1Pr'.  Expected 3, found 2.
+#    Time: 0 ns  Iteration: 0  Instance: /TB_PF1/TB_PCPF1/Add1Pr File: C:/TAREA_MODELSIM/BegPrueba/Prueba.v Line: 248
+# ** Warning: (vsim-3722) C:/TAREA_MODELSIM/BegPrueba/Prueba.v(248): [TFMPC] - Missing connection for port 'B'.
+run -all
+# ** Note: $stop    : C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v(19)
+#    Time: 5 us  Iteration: 0  Instance: /TB_PF1
+# Break in Module TB_PF1 at C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v line 19
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'Add1Pr'.  Expected 3, found 2.
+#    Time: 0 ns  Iteration: 0  Instance: /TB_PF1/TB_PCPF1/Add1Pr File: C:/TAREA_MODELSIM/BegPrueba/Prueba.v Line: 248
+# ** Warning: (vsim-3722) C:/TAREA_MODELSIM/BegPrueba/Prueba.v(248): [TFMPC] - Missing connection for port 'B'.
+run -all
+# ** Note: $stop    : C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v(19)
+#    Time: 5 us  Iteration: 0  Instance: /TB_PF1
+# Break in Module TB_PF1 at C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v line 19
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'Add1Pr'.  Expected 3, found 2.
+#    Time: 0 ns  Iteration: 0  Instance: /TB_PF1/TB_PCPF1/Add1Pr File: C:/TAREA_MODELSIM/BegPrueba/Prueba.v Line: 248
+# ** Warning: (vsim-3722) C:/TAREA_MODELSIM/BegPrueba/Prueba.v(248): [TFMPC] - Missing connection for port 'B'.
+run -all
+# ** Note: $stop    : C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v(19)
+#    Time: 5 us  Iteration: 0  Instance: /TB_PF1
+# Break in Module TB_PF1 at C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v line 19
+quit -sim
+# End time: 18:37:51 on Jun 07,2021, Elapsed time: 0:27:34
+# Errors: 0, Warnings: 3
+vsim work.MEMO
+# vsim work.MEMO 
+# Start time: 18:38:22 on Jun 07,2021
+# Loading work.MEMO
+run
+quit -sim
+# End time: 18:39:36 on Jun 07,2021, Elapsed time: 0:01:14
+# Errors: 0, Warnings: 1
+vsim work.TB_PF1
+# vsim work.TB_PF1 
+# Start time: 18:39:39 on Jun 07,2021
+# Loading work.TB_PF1
+# Loading work.PF1
+# Loading work.PC
+# Loading work.Mux4
+# Loading work.Adder1
+# Loading work.InstMEMO
+# Loading work.Buf1
+# Loading work.UC
+# Loading work.BR
+# Loading work.SignEx
+# Loading work.Buf2
+# Loading work.Adder2
+# Loading work.shift
+# Loading work.ALU
+# Loading work.Mux2
+# Loading work.Mux1
+# Loading work.ALUCONTROL
+# Loading work.Buf3
+# Loading work.CAND
+# Loading work.MEMO
+# Loading work.Buf4
+# Loading work.Mux3
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'Add1Pr'.  Expected 3, found 2.
+#    Time: 0 ns  Iteration: 0  Instance: /TB_PF1/TB_PCPF1/Add1Pr File: C:/TAREA_MODELSIM/BegPrueba/Prueba.v Line: 248
+# ** Warning: (vsim-3722) C:/TAREA_MODELSIM/BegPrueba/Prueba.v(248): [TFMPC] - Missing connection for port 'B'.
+run -all
+# ** Note: $stop    : C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v(19)
+#    Time: 5 us  Iteration: 0  Instance: /TB_PF1
+# Break in Module TB_PF1 at C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v line 19
+quit -sim
+# End time: 18:42:10 on Jun 07,2021, Elapsed time: 0:02:31
+# Errors: 0, Warnings: 3
+vsim work.TB_PF1
+# vsim work.TB_PF1 
+# Start time: 18:43:37 on Jun 07,2021
+# Loading work.TB_PF1
+# Loading work.PF1
+# Loading work.PC
+# Loading work.Mux4
+# Loading work.Adder1
+# Loading work.InstMEMO
+# Loading work.Buf1
+# Loading work.UC
+# Loading work.BR
+# Loading work.SignEx
+# Loading work.Buf2
+# Loading work.Adder2
+# Loading work.shift
+# Loading work.ALU
+# Loading work.Mux2
+# Loading work.Mux1
+# Loading work.ALUCONTROL
+# Loading work.Buf3
+# Loading work.CAND
+# Loading work.MEMO
+# Loading work.Buf4
+# Loading work.Mux3
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'Add1Pr'.  Expected 3, found 2.
+#    Time: 0 ns  Iteration: 0  Instance: /TB_PF1/TB_PCPF1/Add1Pr File: C:/TAREA_MODELSIM/BegPrueba/Prueba.v Line: 248
+# ** Warning: (vsim-3722) C:/TAREA_MODELSIM/BegPrueba/Prueba.v(248): [TFMPC] - Missing connection for port 'B'.
+run -all
+# ** Note: $stop    : C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v(19)
+#    Time: 5 us  Iteration: 0  Instance: /TB_PF1
+# Break in Module TB_PF1 at C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v line 19
+quit -sim
+# End time: 18:44:13 on Jun 07,2021, Elapsed time: 0:00:36
+# Errors: 0, Warnings: 3
+vsim work.TB_PF1
+# vsim work.TB_PF1 
+# Start time: 18:44:29 on Jun 07,2021
+# Loading work.TB_PF1
+# Loading work.PF1
+# Loading work.PC
+# Loading work.Mux4
+# Loading work.Adder1
+# Loading work.InstMEMO
+# Loading work.Buf1
+# Loading work.UC
+# Loading work.BR
+# Loading work.SignEx
+# Loading work.Buf2
+# Loading work.Adder2
+# Loading work.shift
+# Loading work.ALU
+# Loading work.Mux2
+# Loading work.Mux1
+# Loading work.ALUCONTROL
+# Loading work.Buf3
+# Loading work.CAND
+# Loading work.MEMO
+# Loading work.Buf4
+# Loading work.Mux3
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'Add1Pr'.  Expected 3, found 2.
+#    Time: 0 ns  Iteration: 0  Instance: /TB_PF1/TB_PCPF1/Add1Pr File: C:/TAREA_MODELSIM/BegPrueba/Prueba.v Line: 248
+# ** Warning: (vsim-3722) C:/TAREA_MODELSIM/BegPrueba/Prueba.v(248): [TFMPC] - Missing connection for port 'B'.
+add wave -position end  sim:/TB_PF1/CLK
+add wave -position end  sim:/TB_PF1/TB_PCPF1/BRPr/Din
+add wave -position end  sim:/TB_PF1/TB_PCPF1/BRPr/Dir
+add wave -position end  sim:/TB_PF1/TB_PCPF1/BRPr/RegW
+run -all
+# ** Note: $stop    : C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v(19)
+#    Time: 5 us  Iteration: 0  Instance: /TB_PF1
+# Break in Module TB_PF1 at C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v line 19
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'Add1Pr'.  Expected 3, found 2.
+#    Time: 0 ns  Iteration: 0  Instance: /TB_PF1/TB_PCPF1/Add1Pr File: C:/TAREA_MODELSIM/BegPrueba/Prueba.v Line: 248
+# ** Warning: (vsim-3722) C:/TAREA_MODELSIM/BegPrueba/Prueba.v(248): [TFMPC] - Missing connection for port 'B'.
+add wave -position end  sim:/TB_PF1/TB_PCPF1/MEMOPr/Dir
+add wave -position end  sim:/TB_PF1/TB_PCPF1/MEMOPr/Dout
+add wave -position end  sim:/TB_PF1/TB_PCPF1/MEMOPr/Er
+run -all
+# ** Note: $stop    : C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v(19)
+#    Time: 5 us  Iteration: 0  Instance: /TB_PF1
+# Break in Module TB_PF1 at C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v line 19
+quit -sim
+# End time: 18:47:57 on Jun 07,2021, Elapsed time: 0:03:28
+# Errors: 0, Warnings: 3
+vsim work.TB_PF1
+# vsim work.TB_PF1 
+# Start time: 18:48:00 on Jun 07,2021
+# Loading work.TB_PF1
+# Loading work.PF1
+# Loading work.PC
+# Loading work.Mux4
+# Loading work.Adder1
+# Loading work.InstMEMO
+# Loading work.Buf1
+# Loading work.UC
+# Loading work.BR
+# Loading work.SignEx
+# Loading work.Buf2
+# Loading work.Adder2
+# Loading work.shift
+# Loading work.ALU
+# Loading work.Mux2
+# Loading work.Mux1
+# Loading work.ALUCONTROL
+# Loading work.Buf3
+# Loading work.CAND
+# Loading work.MEMO
+# Loading work.Buf4
+# Loading work.Mux3
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'Add1Pr'.  Expected 3, found 2.
+#    Time: 0 ns  Iteration: 0  Instance: /TB_PF1/TB_PCPF1/Add1Pr File: C:/TAREA_MODELSIM/BegPrueba/Prueba.v Line: 248
+# ** Warning: (vsim-3722) C:/TAREA_MODELSIM/BegPrueba/Prueba.v(248): [TFMPC] - Missing connection for port 'B'.
+run -all
+# ** Note: $stop    : C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v(19)
+#    Time: 5 us  Iteration: 0  Instance: /TB_PF1
+# Break in Module TB_PF1 at C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v line 19
+run -all
+# Break key hit
+# Simulation stop requested.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'Add1Pr'.  Expected 3, found 2.
+#    Time: 0 ns  Iteration: 0  Instance: /TB_PF1/TB_PCPF1/Add1Pr File: C:/TAREA_MODELSIM/BegPrueba/Prueba.v Line: 248
+# ** Warning: (vsim-3722) C:/TAREA_MODELSIM/BegPrueba/Prueba.v(248): [TFMPC] - Missing connection for port 'B'.
+run -all
+# ** Note: $stop    : C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v(19)
+#    Time: 5 us  Iteration: 0  Instance: /TB_PF1
+# Break in Module TB_PF1 at C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v line 19
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'Add1Pr'.  Expected 3, found 2.
+#    Time: 0 ns  Iteration: 0  Instance: /TB_PF1/TB_PCPF1/Add1Pr File: C:/TAREA_MODELSIM/BegPrueba/Prueba.v Line: 248
+# ** Warning: (vsim-3722) C:/TAREA_MODELSIM/BegPrueba/Prueba.v(248): [TFMPC] - Missing connection for port 'B'.
+add wave -position end  sim:/TB_PF1/TB_PCPF1/MEMOPr/Din
+add wave -position end  sim:/TB_PF1/TB_PCPF1/MEMOPr/Dir
+add wave -position end  sim:/TB_PF1/TB_PCPF1/MEMOPr/Dout
+add wave -position end  sim:/TB_PF1/TB_PCPF1/MEMOPr/Er
+run -all
+# ** Note: $stop    : C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v(19)
+#    Time: 5 us  Iteration: 0  Instance: /TB_PF1
+# Break in Module TB_PF1 at C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v line 19
+run
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'Add1Pr'.  Expected 3, found 2.
+#    Time: 0 ns  Iteration: 0  Instance: /TB_PF1/TB_PCPF1/Add1Pr File: C:/TAREA_MODELSIM/BegPrueba/Prueba.v Line: 248
+# ** Warning: (vsim-3722) C:/TAREA_MODELSIM/BegPrueba/Prueba.v(248): [TFMPC] - Missing connection for port 'B'.
+add wave -position end  sim:/TB_PF1/TB_PCPF1/ALUPr/INOP1
+add wave -position end  sim:/TB_PF1/TB_PCPF1/ALUPr/INOP2
+add wave -position end  sim:/TB_PF1/TB_PCPF1/ALUPr/RES_OP
+add wave -position end  sim:/TB_PF1/TB_PCPF1/ALUPr/S_OP
+run -all
+# ** Note: $stop    : C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v(19)
+#    Time: 5 us  Iteration: 0  Instance: /TB_PF1
+# Break in Module TB_PF1 at C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v line 19
+quit -sim
+# End time: 18:53:34 on Jun 07,2021, Elapsed time: 0:05:34
+# Errors: 0, Warnings: 3
+vsim work.TB_PF1
+# vsim work.TB_PF1 
+# Start time: 18:53:37 on Jun 07,2021
+# Loading work.TB_PF1
+# Loading work.PF1
+# Loading work.PC
+# Loading work.Mux4
+# Loading work.Adder1
+# Loading work.InstMEMO
+# Loading work.Buf1
+# Loading work.UC
+# Loading work.BR
+# Loading work.SignEx
+# Loading work.Buf2
+# Loading work.Adder2
+# Loading work.shift
+# Loading work.ALU
+# Loading work.Mux2
+# Loading work.Mux1
+# Loading work.ALUCONTROL
+# Loading work.Buf3
+# Loading work.CAND
+# Loading work.MEMO
+# Loading work.Buf4
+# Loading work.Mux3
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'Add1Pr'.  Expected 3, found 2.
+#    Time: 0 ns  Iteration: 0  Instance: /TB_PF1/TB_PCPF1/Add1Pr File: C:/TAREA_MODELSIM/BegPrueba/Prueba.v Line: 248
+# ** Warning: (vsim-3722) C:/TAREA_MODELSIM/BegPrueba/Prueba.v(248): [TFMPC] - Missing connection for port 'B'.
+run -all
+# ** Note: $stop    : C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v(19)
+#    Time: 5 us  Iteration: 0  Instance: /TB_PF1
+# Break in Module TB_PF1 at C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v line 19
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'Add1Pr'.  Expected 3, found 2.
+#    Time: 0 ns  Iteration: 0  Instance: /TB_PF1/TB_PCPF1/Add1Pr File: C:/TAREA_MODELSIM/BegPrueba/Prueba.v Line: 248
+# ** Warning: (vsim-3722) C:/TAREA_MODELSIM/BegPrueba/Prueba.v(248): [TFMPC] - Missing connection for port 'B'.
+add wave -position end  sim:/TB_PF1/TB_PCPF1/ALUPr/INOP1
+add wave -position end  sim:/TB_PF1/TB_PCPF1/ALUPr/INOP2
+add wave -position end  sim:/TB_PF1/TB_PCPF1/ALUPr/RES_OP
+add wave -position end  sim:/TB_PF1/TB_PCPF1/ALUPr/S_OP
+run -all
+# ** Note: $stop    : C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v(19)
+#    Time: 5 us  Iteration: 0  Instance: /TB_PF1
+# Break in Module TB_PF1 at C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v line 19
+add wave -position end  sim:/TB_PF1/TB_PCPF1/BRPr/DR1
+add wave -position end  sim:/TB_PF1/TB_PCPF1/BRPr/DR2
+add wave -position end  sim:/TB_PF1/TB_PCPF1/BRPr/RA1
+add wave -position end  sim:/TB_PF1/TB_PCPF1/BRPr/RA2
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'Add1Pr'.  Expected 3, found 2.
+#    Time: 0 ns  Iteration: 0  Instance: /TB_PF1/TB_PCPF1/Add1Pr File: C:/TAREA_MODELSIM/BegPrueba/Prueba.v Line: 248
+# ** Warning: (vsim-3722) C:/TAREA_MODELSIM/BegPrueba/Prueba.v(248): [TFMPC] - Missing connection for port 'B'.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'Add1Pr'.  Expected 3, found 2.
+#    Time: 0 ns  Iteration: 0  Instance: /TB_PF1/TB_PCPF1/Add1Pr File: C:/TAREA_MODELSIM/BegPrueba/Prueba.v Line: 248
+# ** Warning: (vsim-3722) C:/TAREA_MODELSIM/BegPrueba/Prueba.v(248): [TFMPC] - Missing connection for port 'B'.
+run -all
+# ** Note: $stop    : C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v(19)
+#    Time: 5 us  Iteration: 0  Instance: /TB_PF1
+# Break in Module TB_PF1 at C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v line 19
+add wave -position end  sim:/TB_PF1/TB_PCPF1/BRPr/Din
+add wave -position end  sim:/TB_PF1/TB_PCPF1/BRPr/RegW
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'Add1Pr'.  Expected 3, found 2.
+#    Time: 0 ns  Iteration: 0  Instance: /TB_PF1/TB_PCPF1/Add1Pr File: C:/TAREA_MODELSIM/BegPrueba/Prueba.v Line: 248
+# ** Warning: (vsim-3722) C:/TAREA_MODELSIM/BegPrueba/Prueba.v(248): [TFMPC] - Missing connection for port 'B'.
+run -all
+# ** Note: $stop    : C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v(19)
+#    Time: 5 us  Iteration: 0  Instance: /TB_PF1
+# Break in Module TB_PF1 at C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v line 19
+add wave -position end  sim:/TB_PF1/TB_PCPF1/BRPr/Dir
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'Add1Pr'.  Expected 3, found 2.
+#    Time: 0 ns  Iteration: 0  Instance: /TB_PF1/TB_PCPF1/Add1Pr File: C:/TAREA_MODELSIM/BegPrueba/Prueba.v Line: 248
+# ** Warning: (vsim-3722) C:/TAREA_MODELSIM/BegPrueba/Prueba.v(248): [TFMPC] - Missing connection for port 'B'.
+run -all
+# ** Note: $stop    : C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v(19)
+#    Time: 5 us  Iteration: 0  Instance: /TB_PF1
+# Break in Module TB_PF1 at C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v line 19
+add wave -position end  sim:/TB_PF1/TB_PCPF1/Buf2Pr/DSal
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'Add1Pr'.  Expected 3, found 2.
+#    Time: 0 ns  Iteration: 0  Instance: /TB_PF1/TB_PCPF1/Add1Pr File: C:/TAREA_MODELSIM/BegPrueba/Prueba.v Line: 248
+# ** Warning: (vsim-3722) C:/TAREA_MODELSIM/BegPrueba/Prueba.v(248): [TFMPC] - Missing connection for port 'B'.
+run -all
+# ** Note: $stop    : C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v(19)
+#    Time: 5 us  Iteration: 0  Instance: /TB_PF1
+# Break in Module TB_PF1 at C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v line 19
+quit -sim
+# End time: 19:00:53 on Jun 07,2021, Elapsed time: 0:07:16
+# Errors: 0, Warnings: 3
+# Compile of SignEx.v was successful.
+vsim work.TB_PF1
+# vsim work.TB_PF1 
+# Start time: 19:01:48 on Jun 07,2021
+# Loading work.TB_PF1
+# Loading work.PF1
+# Loading work.PC
+# Loading work.Mux4
+# Loading work.Adder1
+# Loading work.InstMEMO
+# Loading work.Buf1
+# Loading work.UC
+# Loading work.BR
+# Loading work.SignEx
+# Loading work.Buf2
+# Loading work.Adder2
+# Loading work.shift
+# Loading work.ALU
+# Loading work.Mux2
+# Loading work.Mux1
+# Loading work.ALUCONTROL
+# Loading work.Buf3
+# Loading work.CAND
+# Loading work.MEMO
+# Loading work.Buf4
+# Loading work.Mux3
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'Add1Pr'.  Expected 3, found 2.
+#    Time: 0 ns  Iteration: 0  Instance: /TB_PF1/TB_PCPF1/Add1Pr File: C:/TAREA_MODELSIM/BegPrueba/Prueba.v Line: 248
+# ** Warning: (vsim-3722) C:/TAREA_MODELSIM/BegPrueba/Prueba.v(248): [TFMPC] - Missing connection for port 'B'.
+run -all
+# ** Note: $stop    : C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v(19)
+#    Time: 5 us  Iteration: 0  Instance: /TB_PF1
+# Break in Module TB_PF1 at C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v line 19
+quit -sim
+# End time: 19:03:57 on Jun 07,2021, Elapsed time: 0:02:09
+# Errors: 0, Warnings: 4
+vsim work.MEMO
+# vsim work.MEMO 
+# Start time: 19:05:07 on Jun 07,2021
+# Loading work.MEMO
+run
+quit -sim
+# End time: 19:07:56 on Jun 07,2021, Elapsed time: 0:02:49
+# Errors: 0, Warnings: 1
+vsim work.TB_PF1
+# vsim work.TB_PF1 
+# Start time: 19:08:04 on Jun 07,2021
+# Loading work.TB_PF1
+# Loading work.PF1
+# Loading work.PC
+# Loading work.Mux4
+# Loading work.Adder1
+# Loading work.InstMEMO
+# Loading work.Buf1
+# Loading work.UC
+# Loading work.BR
+# Loading work.SignEx
+# Loading work.Buf2
+# Loading work.Adder2
+# Loading work.shift
+# Loading work.ALU
+# Loading work.Mux2
+# Loading work.Mux1
+# Loading work.ALUCONTROL
+# Loading work.Buf3
+# Loading work.CAND
+# Loading work.MEMO
+# Loading work.Buf4
+# Loading work.Mux3
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'Add1Pr'.  Expected 3, found 2.
+#    Time: 0 ns  Iteration: 0  Instance: /TB_PF1/TB_PCPF1/Add1Pr File: C:/TAREA_MODELSIM/BegPrueba/Prueba.v Line: 248
+# ** Warning: (vsim-3722) C:/TAREA_MODELSIM/BegPrueba/Prueba.v(248): [TFMPC] - Missing connection for port 'B'.
+run -all
+# ** Note: $stop    : C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v(19)
+#    Time: 5 us  Iteration: 0  Instance: /TB_PF1
+# Break in Module TB_PF1 at C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v line 19
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'Add1Pr'.  Expected 3, found 2.
+#    Time: 0 ns  Iteration: 0  Instance: /TB_PF1/TB_PCPF1/Add1Pr File: C:/TAREA_MODELSIM/BegPrueba/Prueba.v Line: 248
+# ** Warning: (vsim-3722) C:/TAREA_MODELSIM/BegPrueba/Prueba.v(248): [TFMPC] - Missing connection for port 'B'.
+run -all
+# ** Note: $stop    : C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v(19)
+#    Time: 5 us  Iteration: 0  Instance: /TB_PF1
+# Break in Module TB_PF1 at C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v line 19
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'Add1Pr'.  Expected 3, found 2.
+#    Time: 0 ns  Iteration: 0  Instance: /TB_PF1/TB_PCPF1/Add1Pr File: C:/TAREA_MODELSIM/BegPrueba/Prueba.v Line: 248
+# ** Warning: (vsim-3722) C:/TAREA_MODELSIM/BegPrueba/Prueba.v(248): [TFMPC] - Missing connection for port 'B'.
+add wave -position end  sim:/TB_PF1/CLK
+add wave -position end  sim:/TB_PF1/TB_PCPF1/BRPr/DR1
+add wave -position end  sim:/TB_PF1/TB_PCPF1/BRPr/DR2
+add wave -position end  sim:/TB_PF1/TB_PCPF1/BRPr/RA1
+add wave -position end  sim:/TB_PF1/TB_PCPF1/BRPr/RA2
+add wave -position end  sim:/TB_PF1/TB_PCPF1/MEMOPr/Din
+add wave -position end  sim:/TB_PF1/TB_PCPF1/MEMOPr/Dir
+add wave -position end  sim:/TB_PF1/TB_PCPF1/MEMOPr/Ew
+run -all
+# ** Note: $stop    : C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v(19)
+#    Time: 5 us  Iteration: 0  Instance: /TB_PF1
+# Break in Module TB_PF1 at C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v line 19
+add wave -position end  sim:/TB_PF1/TB_PCPF1/ALUPr/INOP1
+add wave -position end  sim:/TB_PF1/TB_PCPF1/ALUPr/INOP2
+add wave -position end  sim:/TB_PF1/TB_PCPF1/ALUPr/RES_OP
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'Add1Pr'.  Expected 3, found 2.
+#    Time: 0 ns  Iteration: 0  Instance: /TB_PF1/TB_PCPF1/Add1Pr File: C:/TAREA_MODELSIM/BegPrueba/Prueba.v Line: 248
+# ** Warning: (vsim-3722) C:/TAREA_MODELSIM/BegPrueba/Prueba.v(248): [TFMPC] - Missing connection for port 'B'.
+run -all
+# ** Note: $stop    : C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v(19)
+#    Time: 5 us  Iteration: 0  Instance: /TB_PF1
+# Break in Module TB_PF1 at C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v line 19
+add wave -position end  sim:/TB_PF1/TB_PCPF1/Buf3Pr/D
+add wave -position end  sim:/TB_PF1/TB_PCPF1/Buf3Pr/DSal
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'Add1Pr'.  Expected 3, found 2.
+#    Time: 0 ns  Iteration: 0  Instance: /TB_PF1/TB_PCPF1/Add1Pr File: C:/TAREA_MODELSIM/BegPrueba/Prueba.v Line: 248
+# ** Warning: (vsim-3722) C:/TAREA_MODELSIM/BegPrueba/Prueba.v(248): [TFMPC] - Missing connection for port 'B'.
+run -all
+# ** Note: $stop    : C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v(19)
+#    Time: 5 us  Iteration: 0  Instance: /TB_PF1
+# Break in Module TB_PF1 at C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v line 19
+quit -sim
+# End time: 19:19:59 on Jun 07,2021, Elapsed time: 0:11:55
+# Errors: 0, Warnings: 3
+# Compile of Prueba.v was successful.
+vsim work.TB_PF1
+# vsim work.TB_PF1 
+# Start time: 19:20:12 on Jun 07,2021
+# Loading work.TB_PF1
+# Loading work.PF1
+# Loading work.PC
+# Loading work.Mux4
+# Loading work.Adder1
+# Loading work.InstMEMO
+# Loading work.Buf1
+# Loading work.UC
+# Loading work.BR
+# Loading work.SignEx
+# Loading work.Buf2
+# Loading work.Adder2
+# Loading work.shift
+# Loading work.ALU
+# Loading work.Mux2
+# Loading work.Mux1
+# Loading work.ALUCONTROL
+# Loading work.Buf3
+# Loading work.CAND
+# Loading work.MEMO
+# Loading work.Buf4
+# Loading work.Mux3
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'Add1Pr'.  Expected 3, found 2.
+#    Time: 0 ns  Iteration: 0  Instance: /TB_PF1/TB_PCPF1/Add1Pr File: C:/TAREA_MODELSIM/BegPrueba/Prueba.v Line: 248
+# ** Warning: (vsim-3722) C:/TAREA_MODELSIM/BegPrueba/Prueba.v(248): [TFMPC] - Missing connection for port 'B'.
+run -all
+# ** Note: $stop    : C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v(19)
+#    Time: 5 us  Iteration: 0  Instance: /TB_PF1
+# Break in Module TB_PF1 at C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v line 19
+run -all
+# Break key hit
+# Break in Module TB_PF1 at C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v line 11
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'Add1Pr'.  Expected 3, found 2.
+#    Time: 0 ns  Iteration: 0  Instance: /TB_PF1/TB_PCPF1/Add1Pr File: C:/TAREA_MODELSIM/BegPrueba/Prueba.v Line: 248
+# ** Warning: (vsim-3722) C:/TAREA_MODELSIM/BegPrueba/Prueba.v(248): [TFMPC] - Missing connection for port 'B'.
+run -all
+# ** Note: $stop    : C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v(19)
+#    Time: 5 us  Iteration: 0  Instance: /TB_PF1
+# Break in Module TB_PF1 at C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v line 19
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'Add1Pr'.  Expected 3, found 2.
+#    Time: 0 ns  Iteration: 0  Instance: /TB_PF1/TB_PCPF1/Add1Pr File: C:/TAREA_MODELSIM/BegPrueba/Prueba.v Line: 248
+# ** Warning: (vsim-3722) C:/TAREA_MODELSIM/BegPrueba/Prueba.v(248): [TFMPC] - Missing connection for port 'B'.
+run -all
+# ** Note: $stop    : C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v(19)
+#    Time: 5 us  Iteration: 0  Instance: /TB_PF1
+# Break in Module TB_PF1 at C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v line 19
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'Add1Pr'.  Expected 3, found 2.
+#    Time: 0 ns  Iteration: 0  Instance: /TB_PF1/TB_PCPF1/Add1Pr File: C:/TAREA_MODELSIM/BegPrueba/Prueba.v Line: 248
+# ** Warning: (vsim-3722) C:/TAREA_MODELSIM/BegPrueba/Prueba.v(248): [TFMPC] - Missing connection for port 'B'.
+run -all
+# ** Note: $stop    : C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v(19)
+#    Time: 5 us  Iteration: 0  Instance: /TB_PF1
+# Break in Module TB_PF1 at C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v line 19
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'Add1Pr'.  Expected 3, found 2.
+#    Time: 0 ns  Iteration: 0  Instance: /TB_PF1/TB_PCPF1/Add1Pr File: C:/TAREA_MODELSIM/BegPrueba/Prueba.v Line: 248
+# ** Warning: (vsim-3722) C:/TAREA_MODELSIM/BegPrueba/Prueba.v(248): [TFMPC] - Missing connection for port 'B'.
+run -all
+# ** Note: $stop    : C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v(19)
+#    Time: 5 us  Iteration: 0  Instance: /TB_PF1
+# Break in Module TB_PF1 at C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v line 19
+quit -sim
+# End time: 19:41:10 on Jun 07,2021, Elapsed time: 0:20:58
+# Errors: 0, Warnings: 3
+vsim work.TB_PF1
+# vsim work.TB_PF1 
+# Start time: 19:41:19 on Jun 07,2021
+# Loading work.TB_PF1
+# Loading work.PF1
+# Loading work.PC
+# Loading work.Mux4
+# Loading work.Adder1
+# Loading work.InstMEMO
+# Loading work.Buf1
+# Loading work.UC
+# Loading work.BR
+# Loading work.SignEx
+# Loading work.Buf2
+# Loading work.Adder2
+# Loading work.shift
+# Loading work.ALU
+# Loading work.Mux2
+# Loading work.Mux1
+# Loading work.ALUCONTROL
+# Loading work.Buf3
+# Loading work.CAND
+# Loading work.MEMO
+# Loading work.Buf4
+# Loading work.Mux3
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'Add1Pr'.  Expected 3, found 2.
+#    Time: 0 ns  Iteration: 0  Instance: /TB_PF1/TB_PCPF1/Add1Pr File: C:/TAREA_MODELSIM/BegPrueba/Prueba.v Line: 248
+# ** Warning: (vsim-3722) C:/TAREA_MODELSIM/BegPrueba/Prueba.v(248): [TFMPC] - Missing connection for port 'B'.
+run -all
+# ** Note: $stop    : C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v(19)
+#    Time: 5 us  Iteration: 0  Instance: /TB_PF1
+# Break in Module TB_PF1 at C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v line 19
+quit -sim
+# End time: 19:46:31 on Jun 07,2021, Elapsed time: 0:05:12
+# Errors: 0, Warnings: 3
+# Compile of Prueba.v was successful.
+vsim work.TB_PF1
+# vsim work.TB_PF1 
+# Start time: 19:52:26 on Jun 07,2021
+# Loading work.TB_PF1
+# Loading work.PF1
+# Loading work.PC
+# Loading work.Mux4
+# Loading work.Adder1
+# Loading work.InstMEMO
+# Loading work.Buf1
+# Loading work.UC
+# Loading work.BR
+# Loading work.SignEx
+# Loading work.Buf2
+# Loading work.Adder2
+# Loading work.shift
+# Loading work.ALU
+# Loading work.Mux2
+# Loading work.Mux1
+# Loading work.ALUCONTROL
+# Loading work.Buf3
+# Loading work.CAND
+# Loading work.MEMO
+# Loading work.Buf4
+# Loading work.Mux3
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'Add1Pr'.  Expected 3, found 2.
+#    Time: 0 ns  Iteration: 0  Instance: /TB_PF1/TB_PCPF1/Add1Pr File: C:/TAREA_MODELSIM/BegPrueba/Prueba.v Line: 248
+# ** Warning: (vsim-3722) C:/TAREA_MODELSIM/BegPrueba/Prueba.v(248): [TFMPC] - Missing connection for port 'B'.
+run -all
+# ** Note: $stop    : C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v(19)
+#    Time: 5 us  Iteration: 0  Instance: /TB_PF1
+# Break in Module TB_PF1 at C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v line 19
+quit -sim
+# End time: 19:52:52 on Jun 07,2021, Elapsed time: 0:00:26
+# Errors: 0, Warnings: 4
+# Compile of Prueba.v was successful.
+vsim work.TB_PF1
+# vsim work.TB_PF1 
+# Start time: 19:53:36 on Jun 07,2021
+# Loading work.TB_PF1
+# Loading work.PF1
+# Loading work.PC
+# Loading work.Mux4
+# Loading work.Adder1
+# Loading work.InstMEMO
+# Loading work.Buf1
+# Loading work.UC
+# Loading work.BR
+# Loading work.SignEx
+# Loading work.Buf2
+# Loading work.Adder2
+# Loading work.shift
+# Loading work.ALU
+# Loading work.Mux2
+# Loading work.Mux1
+# Loading work.ALUCONTROL
+# Loading work.Buf3
+# Loading work.CAND
+# Loading work.MEMO
+# Loading work.Buf4
+# Loading work.Mux3
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'Add1Pr'.  Expected 3, found 2.
+#    Time: 0 ns  Iteration: 0  Instance: /TB_PF1/TB_PCPF1/Add1Pr File: C:/TAREA_MODELSIM/BegPrueba/Prueba.v Line: 248
+# ** Warning: (vsim-3722) C:/TAREA_MODELSIM/BegPrueba/Prueba.v(248): [TFMPC] - Missing connection for port 'B'.
+run -all
+# ** Note: $stop    : C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v(19)
+#    Time: 5 us  Iteration: 0  Instance: /TB_PF1
+# Break in Module TB_PF1 at C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v line 19
+quit -sim
+# End time: 19:54:13 on Jun 07,2021, Elapsed time: 0:00:37
+# Errors: 0, Warnings: 4
+vsim work.TB_PF1
+# vsim work.TB_PF1 
+# Start time: 19:54:48 on Jun 07,2021
+# Loading work.TB_PF1
+# Loading work.PF1
+# Loading work.PC
+# Loading work.Mux4
+# Loading work.Adder1
+# Loading work.InstMEMO
+# Loading work.Buf1
+# Loading work.UC
+# Loading work.BR
+# Loading work.SignEx
+# Loading work.Buf2
+# Loading work.Adder2
+# Loading work.shift
+# Loading work.ALU
+# Loading work.Mux2
+# Loading work.Mux1
+# Loading work.ALUCONTROL
+# Loading work.Buf3
+# Loading work.CAND
+# Loading work.MEMO
+# Loading work.Buf4
+# Loading work.Mux3
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'Add1Pr'.  Expected 3, found 2.
+#    Time: 0 ns  Iteration: 0  Instance: /TB_PF1/TB_PCPF1/Add1Pr File: C:/TAREA_MODELSIM/BegPrueba/Prueba.v Line: 248
+# ** Warning: (vsim-3722) C:/TAREA_MODELSIM/BegPrueba/Prueba.v(248): [TFMPC] - Missing connection for port 'B'.
+run -all
+# ** Note: $stop    : C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v(19)
+#    Time: 5 us  Iteration: 0  Instance: /TB_PF1
+# Break in Module TB_PF1 at C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v line 19
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'Add1Pr'.  Expected 3, found 2.
+#    Time: 0 ns  Iteration: 0  Instance: /TB_PF1/TB_PCPF1/Add1Pr File: C:/TAREA_MODELSIM/BegPrueba/Prueba.v Line: 248
+# ** Warning: (vsim-3722) C:/TAREA_MODELSIM/BegPrueba/Prueba.v(248): [TFMPC] - Missing connection for port 'B'.
+run -all
+# ** Note: $stop    : C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v(19)
+#    Time: 5 us  Iteration: 0  Instance: /TB_PF1
+# Break in Module TB_PF1 at C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v line 19
+quit -sim
+# End time: 19:59:21 on Jun 07,2021, Elapsed time: 0:04:33
+# Errors: 0, Warnings: 3
+vsim work.TB_PF1
+# vsim work.TB_PF1 
+# Start time: 20:02:08 on Jun 07,2021
+# Loading work.TB_PF1
+# Loading work.PF1
+# Loading work.PC
+# Loading work.Mux4
+# Loading work.Adder1
+# Loading work.InstMEMO
+# Loading work.Buf1
+# Loading work.UC
+# Loading work.BR
+# Loading work.SignEx
+# Loading work.Buf2
+# Loading work.Adder2
+# Loading work.shift
+# Loading work.ALU
+# Loading work.Mux2
+# Loading work.Mux1
+# Loading work.ALUCONTROL
+# Loading work.Buf3
+# Loading work.CAND
+# Loading work.MEMO
+# Loading work.Buf4
+# Loading work.Mux3
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'Add1Pr'.  Expected 3, found 2.
+#    Time: 0 ns  Iteration: 0  Instance: /TB_PF1/TB_PCPF1/Add1Pr File: C:/TAREA_MODELSIM/BegPrueba/Prueba.v Line: 248
+# ** Warning: (vsim-3722) C:/TAREA_MODELSIM/BegPrueba/Prueba.v(248): [TFMPC] - Missing connection for port 'B'.
+run -all
+# ** Note: $stop    : C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v(19)
+#    Time: 5 us  Iteration: 0  Instance: /TB_PF1
+# Break in Module TB_PF1 at C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v line 19
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'Add1Pr'.  Expected 3, found 2.
+#    Time: 0 ns  Iteration: 0  Instance: /TB_PF1/TB_PCPF1/Add1Pr File: C:/TAREA_MODELSIM/BegPrueba/Prueba.v Line: 248
+# ** Warning: (vsim-3722) C:/TAREA_MODELSIM/BegPrueba/Prueba.v(248): [TFMPC] - Missing connection for port 'B'.
+run -all
+# ** Note: $stop    : C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v(19)
+#    Time: 5 us  Iteration: 0  Instance: /TB_PF1
+# Break in Module TB_PF1 at C:/TAREA_MODELSIM/BegPrueba/TB_Prueba.v line 19
+# End time: 20:20:29 on Jun 07,2021, Elapsed time: 0:18:21
+# Errors: 0, Warnings: 3

@@ -1,0 +1,538 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/TAREA_MODELSIM/PF1
+vAdder1
+!s110 1622859635
+!i10b 1
+!s100 8Xm3]MBac^6`7?TO9RE<l3
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+InVdZ?O>DMCDiXkf]EGH_[3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/TAREA_MODELSIM/BegPrueba
+w1622859610
+8C:\TAREA_MODELSIM\BegPrueba\Adder1.v
+FC:\TAREA_MODELSIM\BegPrueba\Adder1.v
+!i122 17
+L0 3 14
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1622859634.000000
+!s107 C:\TAREA_MODELSIM\BegPrueba\Adder1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\TAREA_MODELSIM\BegPrueba\Adder1.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+n@adder1
+vAdder2
+!s110 1622859638
+!i10b 1
+!s100 ?zbHXd<Te@D8QH<FJDY[E2
+R0
+IQ[9fjWm>lc^KPDFQ@MYj10
+R1
+R2
+w1622859627
+8C:\TAREA_MODELSIM\BegPrueba\Adder3.v
+FC:\TAREA_MODELSIM\BegPrueba\Adder3.v
+!i122 18
+L0 3 10
+R3
+r1
+!s85 0
+31
+!s108 1622859638.000000
+!s107 C:\TAREA_MODELSIM\BegPrueba\Adder3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\TAREA_MODELSIM\BegPrueba\Adder3.v|
+!i113 1
+R4
+R5
+n@adder2
+vALU
+Z6 !s110 1622858106
+!i10b 1
+!s100 ?lXmi6H3LGa]ESQ[7Gbl=3
+R0
+I0e?[5^iMB@=7a=69Y_17k0
+R1
+R2
+w1622858040
+8C:\TAREA_MODELSIM\BegPrueba\ALU.v
+FC:\TAREA_MODELSIM\BegPrueba\ALU.v
+!i122 4
+L0 3 59
+R3
+r1
+!s85 0
+31
+Z7 !s108 1622858106.000000
+!s107 C:\TAREA_MODELSIM\BegPrueba\ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\TAREA_MODELSIM\BegPrueba\ALU.v|
+!i113 1
+R4
+R5
+n@a@l@u
+vALUCONTROL
+!s110 1622916762
+!i10b 1
+!s100 o]10flM[8EFjJO6ln<b_k3
+R0
+IEoH1[[mGBl6`;DZCRRQ6W3
+R1
+R2
+w1622916748
+8C:\TAREA_MODELSIM\BegPrueba\ALUCont.v
+FC:\TAREA_MODELSIM\BegPrueba\ALUCont.v
+!i122 39
+L0 3 68
+R3
+r1
+!s85 0
+31
+!s108 1622916762.000000
+!s107 C:\TAREA_MODELSIM\BegPrueba\ALUCont.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\TAREA_MODELSIM\BegPrueba\ALUCont.v|
+!i113 1
+R4
+R5
+n@a@l@u@c@o@n@t@r@o@l
+vBR
+!s110 1622907849
+!i10b 1
+!s100 z2^hT7Tc4X1l;a=gS9B;S3
+R0
+I4g8Tz4Z[DnmPz?f@JUOZA2
+R1
+R2
+w1622907839
+8C:\TAREA_MODELSIM\BegPrueba\Registers.v
+FC:\TAREA_MODELSIM\BegPrueba\Registers.v
+!i122 26
+L0 3 29
+R3
+r1
+!s85 0
+31
+!s108 1622907849.000000
+!s107 C:\TAREA_MODELSIM\BegPrueba\Registers.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\TAREA_MODELSIM\BegPrueba\Registers.v|
+!i113 1
+R4
+R5
+n@b@r
+vBuf1
+Z8 !s110 1623011552
+!i10b 1
+!s100 ]ec4jI>UPfDMY8N>dm;F>2
+R0
+Ib_:9O96JaQ`ORkRT7;GaN1
+R1
+R2
+w1623011523
+8C:\TAREA_MODELSIM\BegPrueba\Buffer1.v
+FC:\TAREA_MODELSIM\BegPrueba\Buffer1.v
+!i122 41
+L0 3 21
+R3
+r1
+!s85 0
+31
+Z9 !s108 1623011552.000000
+!s107 C:\TAREA_MODELSIM\BegPrueba\Buffer1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\TAREA_MODELSIM\BegPrueba\Buffer1.v|
+!i113 1
+R4
+R5
+n@buf1
+vBuf2
+R8
+!i10b 1
+!s100 gO9<CZhTXO_9b?ZS6V7AV0
+R0
+I_ZmZ>>FhFg6f<^IfE`mNT1
+R1
+R2
+w1623011546
+8C:\TAREA_MODELSIM\BegPrueba\Buffer2.v
+FC:\TAREA_MODELSIM\BegPrueba\Buffer2.v
+!i122 42
+L0 3 55
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:\TAREA_MODELSIM\BegPrueba\Buffer2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\TAREA_MODELSIM\BegPrueba\Buffer2.v|
+!i113 1
+R4
+R5
+n@buf2
+vBuf3
+!s110 1623017835
+!i10b 1
+!s100 >JJ_NbZW:zl67TUdM3>i11
+R0
+IC:DGRN6j@bL0PE3jTN_];2
+R1
+R2
+w1623017831
+8C:\TAREA_MODELSIM\BegPrueba\Buffer3.v
+FC:\TAREA_MODELSIM\BegPrueba\Buffer3.v
+!i122 50
+L0 3 51
+R3
+r1
+!s85 0
+31
+!s108 1623017835.000000
+!s107 C:\TAREA_MODELSIM\BegPrueba\Buffer3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\TAREA_MODELSIM\BegPrueba\Buffer3.v|
+!i113 1
+R4
+R5
+n@buf3
+vBuf4
+!s110 1623011628
+!i10b 1
+!s100 TPT3Y]LDg5P8OXX4:]9E?1
+R0
+IzDBk3Y9cC>dW0E7]kS@=K3
+R1
+R2
+w1623011620
+8C:\TAREA_MODELSIM\BegPrueba\Buffer4.v
+FC:\TAREA_MODELSIM\BegPrueba\Buffer4.v
+!i122 44
+L0 3 32
+R3
+r1
+!s85 0
+31
+!s108 1623011627.000000
+!s107 C:\TAREA_MODELSIM\BegPrueba\Buffer4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\TAREA_MODELSIM\BegPrueba\Buffer4.v|
+!i113 1
+R4
+R5
+n@buf4
+vCAND
+Z10 !s110 1622858107
+!i10b 1
+!s100 UTXMOnWfdFQ0P[a3G`_WB2
+R0
+Ibd:8;RMX`PQ833lb`WFOS3
+R1
+R2
+w1622857976
+8C:\TAREA_MODELSIM\BegPrueba\AND.v
+FC:\TAREA_MODELSIM\BegPrueba\AND.v
+!i122 7
+L0 3 12
+R3
+r1
+!s85 0
+31
+Z11 !s108 1622858107.000000
+!s107 C:\TAREA_MODELSIM\BegPrueba\AND.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\TAREA_MODELSIM\BegPrueba\AND.v|
+!i113 1
+R4
+R5
+n@c@a@n@d
+vInstMEMO
+!s110 1622859766
+!i10b 1
+!s100 j4NC7JLBnUVS:d[STPVZS1
+R0
+IB=W<`HL778IkXX^IjanT[1
+R1
+R2
+w1622859756
+8C:\TAREA_MODELSIM\BegPrueba\InstMem.v
+FC:\TAREA_MODELSIM\BegPrueba\InstMem.v
+!i122 21
+Z12 L0 3 17
+R3
+r1
+!s85 0
+31
+!s108 1622859766.000000
+!s107 C:\TAREA_MODELSIM\BegPrueba\InstMem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\TAREA_MODELSIM\BegPrueba\InstMem.v|
+!i113 1
+R4
+R5
+n@inst@m@e@m@o
+vMEMO
+R10
+!i10b 1
+!s100 S^k^Ui[NU9m@5J11oncAJ0
+R0
+IQ0bfS2UYgz4g^?HlT92OJ1
+R1
+R2
+w1622857947
+8C:\TAREA_MODELSIM\BegPrueba\DataMem.v
+FC:\TAREA_MODELSIM\BegPrueba\DataMem.v
+!i122 8
+L0 3 27
+R3
+r1
+!s85 0
+31
+R11
+!s107 C:\TAREA_MODELSIM\BegPrueba\DataMem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\TAREA_MODELSIM\BegPrueba\DataMem.v|
+!i113 1
+R4
+R5
+n@m@e@m@o
+vMux1
+R6
+!i10b 1
+!s100 HLY]JcU_nLMGCThn<mmOZ2
+R0
+I3UO^XP>8eO`fl:j<EjTi93
+R1
+R2
+w1622857907
+8C:\TAREA_MODELSIM\BegPrueba\Mux1.v
+FC:\TAREA_MODELSIM\BegPrueba\Mux1.v
+!i122 0
+Z13 L0 3 24
+R3
+r1
+!s85 0
+31
+!s108 1622858105.000000
+!s107 C:\TAREA_MODELSIM\BegPrueba\Mux1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\TAREA_MODELSIM\BegPrueba\Mux1.v|
+!i113 1
+R4
+R5
+n@mux1
+vMux2
+R6
+!i10b 1
+!s100 V6O9QU2V;Kb@Z6IM[VXM`0
+R0
+I3?^PXV0o808[RcJP>GegG1
+R1
+R2
+w1622857899
+8C:\TAREA_MODELSIM\BegPrueba\Mux2.v
+FC:\TAREA_MODELSIM\BegPrueba\Mux2.v
+!i122 1
+R13
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:\TAREA_MODELSIM\BegPrueba\Mux2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\TAREA_MODELSIM\BegPrueba\Mux2.v|
+!i113 1
+R4
+R5
+n@mux2
+vMux3
+R6
+!i10b 1
+!s100 0kP5R`SRoDK4ORH<Nl<1h1
+R0
+IaNKMaXP0jhz;0gX3TK4Mh1
+R1
+R2
+w1622857889
+8C:\TAREA_MODELSIM\BegPrueba\Mux3.v
+FC:\TAREA_MODELSIM\BegPrueba\Mux3.v
+!i122 2
+R13
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:\TAREA_MODELSIM\BegPrueba\Mux3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\TAREA_MODELSIM\BegPrueba\Mux3.v|
+!i113 1
+R4
+R5
+n@mux3
+vMux4
+!s110 1623094194
+!i10b 1
+!s100 7mRT[kdOKb>UMi5lGfW9G0
+R0
+IiEdHzk1F?9c5`oah312ZR1
+R1
+R2
+w1623094180
+8C:\TAREA_MODELSIM\BegPrueba\Mux4.v
+FC:\TAREA_MODELSIM\BegPrueba\Mux4.v
+!i122 53
+L0 3 28
+R3
+r1
+!s85 0
+31
+!s108 1623094193.000000
+!s107 C:\TAREA_MODELSIM\BegPrueba\Mux4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\TAREA_MODELSIM\BegPrueba\Mux4.v|
+!i113 1
+R4
+R5
+n@mux4
+vPC
+R10
+!i10b 1
+!s100 6mM025MAPYck=TTHTQN8X1
+R0
+I9RJ6GcH?E?oP71<4kP^IS3
+R1
+R2
+w1622857837
+8C:\TAREA_MODELSIM\BegPrueba\PC.v
+FC:\TAREA_MODELSIM\BegPrueba\PC.v
+!i122 10
+R12
+R3
+r1
+!s85 0
+31
+R11
+!s107 C:\TAREA_MODELSIM\BegPrueba\PC.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\TAREA_MODELSIM\BegPrueba\PC.v|
+!i113 1
+R4
+R5
+n@p@c
+vPF1
+!s110 1623113607
+!i10b 1
+!s100 8C0eKKH4S6Q^:z_R8J15L2
+R0
+I:=Dd<@3@D[E9j;Ccih3`j0
+R1
+R2
+w1623113597
+8C:\TAREA_MODELSIM\BegPrueba\Prueba.v
+FC:\TAREA_MODELSIM\BegPrueba\Prueba.v
+!i122 58
+L0 157 256
+R3
+r1
+!s85 0
+31
+!s108 1623113607.000000
+!s107 C:\TAREA_MODELSIM\BegPrueba\Prueba.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\TAREA_MODELSIM\BegPrueba\Prueba.v|
+!i113 1
+R4
+R5
+n@p@f1
+vshift
+!s110 1622858108
+!i10b 1
+!s100 F7^FE958KJja2SFiO^lZG1
+R0
+Il>3b@g=dPgibkK_n_a8GA0
+R1
+R2
+w1622857708
+8C:\TAREA_MODELSIM\BegPrueba\Shift.v
+FC:\TAREA_MODELSIM\BegPrueba\Shift.v
+!i122 13
+L0 3 11
+R3
+r1
+!s85 0
+31
+R11
+!s107 C:\TAREA_MODELSIM\BegPrueba\Shift.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\TAREA_MODELSIM\BegPrueba\Shift.v|
+!i113 1
+R4
+R5
+vSignEx
+!s110 1623110504
+!i10b 1
+!s100 E]7CCH78?[YHGVJFn1i^z0
+R0
+I]^NF^RnKDGJ9VcMPRPHh73
+R1
+R2
+w1623110495
+8C:\TAREA_MODELSIM\BegPrueba\SignEx.v
+FC:\TAREA_MODELSIM\BegPrueba\SignEx.v
+!i122 55
+L0 3 16
+R3
+r1
+!s85 0
+31
+!s108 1623110504.000000
+!s107 C:\TAREA_MODELSIM\BegPrueba\SignEx.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\TAREA_MODELSIM\BegPrueba\SignEx.v|
+!i113 1
+R4
+R5
+n@sign@ex
+vTB_PF1
+!s110 1623041468
+!i10b 1
+!s100 V`YOS5SPl5>j3hYIYMZHh3
+R0
+I1e6zaAoWbj6XJcF:6bB5S0
+R1
+R2
+w1623041461
+8C:\TAREA_MODELSIM\BegPrueba\TB_Prueba.v
+FC:\TAREA_MODELSIM\BegPrueba\TB_Prueba.v
+!i122 52
+L0 3 20
+R3
+r1
+!s85 0
+31
+!s108 1623041467.000000
+!s107 C:\TAREA_MODELSIM\BegPrueba\TB_Prueba.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\TAREA_MODELSIM\BegPrueba\TB_Prueba.v|
+!i113 1
+R4
+R5
+n@t@b_@p@f1
+vUC
+!s110 1622916255
+!i10b 1
+!s100 a<o9RlE@Ozg3?mRn6^]j<3
+R0
+IE;f0U0:nFz605lo?eeIi72
+R1
+R2
+w1622916149
+8C:\TAREA_MODELSIM\BegPrueba\ControlU.v
+FC:\TAREA_MODELSIM\BegPrueba\ControlU.v
+!i122 38
+L0 3 120
+R3
+r1
+!s85 0
+31
+!s108 1622916255.000000
+!s107 C:\TAREA_MODELSIM\BegPrueba\ControlU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\TAREA_MODELSIM\BegPrueba\ControlU.v|
+!i113 1
+R4
+R5
+n@u@c
