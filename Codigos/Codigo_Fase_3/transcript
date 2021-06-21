@@ -1,0 +1,90 @@
+# Compile of TB_Prueba.v was successful.
+# Compile of Adder1.v was successful.
+# Compile of Adder2.v was successful.
+# Compile of Adder3.v was successful.
+# Compile of Adder4.v was successful.
+# Compile of ALU.v was successful.
+# Compile of ALUCont.v was successful.
+# Compile of AND.v was successful.
+# Compile of Buffer1.v was successful.
+# Compile of Buffer2.v was successful.
+# Compile of Buffer3.v was successful.
+# Compile of Buffer4.v was successful.
+# Compile of ControlU.v was successful.
+# Compile of DataMem.v was successful.
+# Compile of InstMem.v was successful.
+# Compile of Mux1.v was successful.
+# Compile of Mux2.v was successful.
+# Compile of Mux3.v was successful.
+# Compile of Mux4.v was successful.
+# Compile of Mux5.v was successful.
+# Compile of PC.v was successful.
+# Compile of Prueba.v was successful.
+# Compile of Registers.v was successful with warnings.
+# Compile of Shift.v was successful.
+# Compile of Shift2.v was successful.
+# Compile of SignEx.v was successful.
+# 26 compiles, 0 failed with no errors.
+vsim work.TB_PF3
+# vsim work.TB_PF3 
+# Start time: 08:58:31 on Jun 16,2021
+# Loading work.TB_PF3
+# Loading work.PF3
+# Loading work.PC
+# Loading work.Mux4
+# Loading work.Mux5
+# Loading work.Adder1
+# Loading work.InstMEMO
+# Loading work.Buf1
+# Loading work.shift_2
+# Loading work.UC
+# Loading work.BR
+# Loading work.SignEx
+# Loading work.Buf2
+# Loading work.Adder2
+# Loading work.shift
+# Loading work.ALU
+# Loading work.Mux2
+# Loading work.Mux1
+# Loading work.ALUCONTROL
+# Loading work.Buf3
+# Loading work.CAND
+# Loading work.MEMO
+# Loading work.Buf4
+# Loading work.Mux3
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'Add1Pr'.  Expected 3, found 2.
+#    Time: 0 ns  Iteration: 0  Instance: /TB_PF3/TB_PCPF1/Add1Pr File: C:/Users/juano/Desktop/Codigo_Fase_3/Prueba.v Line: 264
+# ** Warning: (vsim-3722) C:/Users/juano/Desktop/Codigo_Fase_3/Prueba.v(264): [TFMPC] - Missing connection for port 'B'.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+quit -sim
+# End time: 08:59:36 on Jun 16,2021, Elapsed time: 0:01:05
+# Errors: 0, Warnings: 8

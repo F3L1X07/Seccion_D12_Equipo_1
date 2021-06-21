@@ -1,0 +1,176 @@
+C:/Users/juano/Desktop/Codigo_Fase_3/SignEx.v {1 {vlog -work work -stats=none C:/Users/juano/Desktop/Codigo_Fase_3/SignEx.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SignEx
+
+Top level modules:
+	SignEx
+
+} {} {}} C:/Users/juano/Desktop/Codigo_Fase_3/Mux4.v {1 {vlog -work work -stats=none C:/Users/juano/Desktop/Codigo_Fase_3/Mux4.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux4
+
+Top level modules:
+	Mux4
+
+} {} {}} C:/Users/juano/Desktop/Codigo_Fase_3/Buffer4.v {1 {vlog -work work -stats=none C:/Users/juano/Desktop/Codigo_Fase_3/Buffer4.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Buf4
+
+Top level modules:
+	Buf4
+
+} {} {}} C:/Users/juano/Desktop/Codigo_Fase_3/Prueba.v {1 {vlog -work work -stats=none C:/Users/juano/Desktop/Codigo_Fase_3/Prueba.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PF3
+
+Top level modules:
+	PF3
+
+} {} {}} C:/Users/juano/Desktop/Codigo_Fase_3/Mux5.v {1 {vlog -work work -stats=none C:/Users/juano/Desktop/Codigo_Fase_3/Mux5.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux5
+
+Top level modules:
+	Mux5
+
+} {} {}} C:/Users/juano/Desktop/Codigo_Fase_3/Registers.v {2 {vlog -work work -stats=none C:/Users/juano/Desktop/Codigo_Fase_3/Registers.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module BR
+** Warning: C:/Users/juano/Desktop/Codigo_Fase_3/Registers.v(21): (vlog-2182) 'BanReg' might be read before written in always_comb or always @* block.
+
+Top level modules:
+	BR
+
+} {} {}} C:/Users/juano/Desktop/Codigo_Fase_3/Adder1.v {1 {vlog -work work -stats=none C:/Users/juano/Desktop/Codigo_Fase_3/Adder1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Adder1
+
+Top level modules:
+	Adder1
+
+} {} {}} C:/Users/juano/Desktop/Codigo_Fase_3/Adder2.v {1 {vlog -work work -stats=none C:/Users/juano/Desktop/Codigo_Fase_3/Adder2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+
+} {} {}} C:/Users/juano/Desktop/Codigo_Fase_3/Adder3.v {1 {vlog -work work -stats=none C:/Users/juano/Desktop/Codigo_Fase_3/Adder3.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Adder2
+
+Top level modules:
+	Adder2
+
+} {} {}} C:/Users/juano/Desktop/Codigo_Fase_3/TB_Prueba.v {1 {vlog -work work -stats=none C:/Users/juano/Desktop/Codigo_Fase_3/TB_Prueba.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TB_PF3
+
+Top level modules:
+	TB_PF3
+
+} {} {}} C:/Users/juano/Desktop/Codigo_Fase_3/Adder4.v {1 {vlog -work work -stats=none C:/Users/juano/Desktop/Codigo_Fase_3/Adder4.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+
+} {} {}} C:/Users/juano/Desktop/Codigo_Fase_3/Shift.v {1 {vlog -work work -stats=none C:/Users/juano/Desktop/Codigo_Fase_3/Shift.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module shift
+
+Top level modules:
+	shift
+
+} {} {}} C:/Users/juano/Desktop/Codigo_Fase_3/ControlU.v {1 {vlog -work work -stats=none C:/Users/juano/Desktop/Codigo_Fase_3/ControlU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module UC
+
+Top level modules:
+	UC
+
+} {} {}} C:/Users/juano/Desktop/Codigo_Fase_3/ALUCont.v {1 {vlog -work work -stats=none C:/Users/juano/Desktop/Codigo_Fase_3/ALUCont.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALUCONTROL
+
+Top level modules:
+	ALUCONTROL
+
+} {} {}} C:/Users/juano/Desktop/Codigo_Fase_3/Shift2.v {1 {vlog -work work -stats=none C:/Users/juano/Desktop/Codigo_Fase_3/Shift2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module shift_2
+
+Top level modules:
+	shift_2
+
+} {} {}} C:/Users/juano/Desktop/Codigo_Fase_3/DataMem.v {1 {vlog -work work -stats=none C:/Users/juano/Desktop/Codigo_Fase_3/DataMem.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MEMO
+
+Top level modules:
+	MEMO
+
+} {} {}} C:/Users/juano/Desktop/Codigo_Fase_3/ALU.v {1 {vlog -work work -stats=none C:/Users/juano/Desktop/Codigo_Fase_3/ALU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/juano/Desktop/Codigo_Fase_3/PC.v {1 {vlog -work work -stats=none C:/Users/juano/Desktop/Codigo_Fase_3/PC.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} C:/Users/juano/Desktop/Codigo_Fase_3/Mux1.v {1 {vlog -work work -stats=none C:/Users/juano/Desktop/Codigo_Fase_3/Mux1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux1
+
+Top level modules:
+	Mux1
+
+} {} {}} C:/Users/juano/Desktop/Codigo_Fase_3/AND.v {1 {vlog -work work -stats=none C:/Users/juano/Desktop/Codigo_Fase_3/AND.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module CAND
+
+Top level modules:
+	CAND
+
+} {} {}} C:/Users/juano/Desktop/Codigo_Fase_3/Buffer1.v {1 {vlog -work work -stats=none C:/Users/juano/Desktop/Codigo_Fase_3/Buffer1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Buf1
+
+Top level modules:
+	Buf1
+
+} {} {}} C:/Users/juano/Desktop/Codigo_Fase_3/Mux2.v {1 {vlog -work work -stats=none C:/Users/juano/Desktop/Codigo_Fase_3/Mux2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux2
+
+Top level modules:
+	Mux2
+
+} {} {}} C:/Users/juano/Desktop/Codigo_Fase_3/Buffer2.v {1 {vlog -work work -stats=none C:/Users/juano/Desktop/Codigo_Fase_3/Buffer2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Buf2
+
+Top level modules:
+	Buf2
+
+} {} {}} C:/Users/juano/Desktop/Codigo_Fase_3/Mux3.v {1 {vlog -work work -stats=none C:/Users/juano/Desktop/Codigo_Fase_3/Mux3.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux3
+
+Top level modules:
+	Mux3
+
+} {} {}} C:/Users/juano/Desktop/Codigo_Fase_3/InstMem.v {1 {vlog -work work -stats=none C:/Users/juano/Desktop/Codigo_Fase_3/InstMem.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module InstMEMO
+
+Top level modules:
+	InstMEMO
+
+} {} {}} C:/Users/juano/Desktop/Codigo_Fase_3/Buffer3.v {1 {vlog -work work -stats=none C:/Users/juano/Desktop/Codigo_Fase_3/Buffer3.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Buf3
+
+Top level modules:
+	Buf3
+
+} {} {}}
